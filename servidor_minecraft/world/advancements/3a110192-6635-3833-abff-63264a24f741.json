@@ -13391,12 +13391,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-01-25 02:53:38 +0000"
-    },
-    "done": false
-  },
   "nova_structures:adventure/find_toxic_lair": {
     "criteria": {
       "toxic_lair": "2025-01-25 02:18:07 +0000"

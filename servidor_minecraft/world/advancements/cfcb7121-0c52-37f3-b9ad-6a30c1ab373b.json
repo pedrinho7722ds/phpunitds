@@ -1030,6 +1030,7 @@
       "cooked_shrimp": "2025-01-05 02:28:20 +0000",
       "cooked_calamari": "2024-12-22 05:33:11 +0000",
       "cheeseburger": "2025-01-06 05:39:36 +0000",
+      "crab": "2025-01-25 03:03:02 +0000",
       "cheese": "2025-01-06 05:38:23 +0000"
     },
     "done": false
@@ -17861,6 +17862,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-01-25 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_couch": {
+    "criteria": {
+      "has_birch_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-01-25 02:43:58 +0000"
@@ -17876,6 +17889,12 @@
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_chair": {
+    "criteria": {
+      "has_birch_slab": "2025-01-25 03:02:15 +0000"
     },
     "done": true
   },
@@ -17909,6 +17928,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-25 03:02:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
@@ -17918,6 +17943,12 @@
   "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
       "has_cattail": "2025-01-25 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_sofa": {
+    "criteria": {
+      "has_birch_slab": "2025-01-25 03:02:15 +0000"
     },
     "done": true
   },
@@ -17942,6 +17973,24 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-25 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-01-25 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_desk": {
+    "criteria": {
+      "has_birch_slab": "2025-01-25 03:02:15 +0000"
     },
     "done": true
   },
@@ -17981,6 +18030,30 @@
     },
     "done": true
   },
+  "cozyhome:recipes/building_blocks/birch_drawer": {
+    "criteria": {
+      "has_birch_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_wall_clock": {
+    "criteria": {
+      "has_birch_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-01-25 02:43:58 +0000"
@@ -17999,9 +18072,39 @@
     },
     "done": true
   },
+  "cozyhome:recipes/building_blocks/dark_oak_wall_clock": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_sofa": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-01-25 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_table": {
+    "criteria": {
+      "has_birch_slab": "2025-01-25 03:02:15 +0000"
     },
     "done": true
   },

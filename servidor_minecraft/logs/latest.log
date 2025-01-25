@@ -2016,3 +2016,59 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:43:05] [Server thread/INFO]: chat.type.admin
 [02:47:36] [Server thread/INFO]: chat.type.admin
 [02:48:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[02:56:47] [Server thread/INFO]: chat.type.admin
+[02:58:20] [Server thread/INFO]: chat.type.admin
+[03:00:01] [Server thread/INFO]: chat.type.admin
+[03:00:02] [Worker-Main-3/WARN]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[03:00:02] [Worker-Main-3/WARN]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[03:00:05] [Server thread/INFO]: chat.type.admin
+[03:00:08] [Server thread/INFO]: chat.type.admin
+[03:00:09] [Worker-Main-1/WARN]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[03:00:09] [Worker-Main-1/WARN]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[03:00:09] [Worker-Main-1/WARN]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[03:00:09] [Worker-Main-1/WARN]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[03:00:11] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=1517, y=82, z=743}
+[03:00:17] [Worker-Main-1/WARN]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[03:00:22] [Worker-Main-3/WARN]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[03:00:22] [Worker-Main-3/WARN]: Template pool fallback chain found: hopo:mobs/fast_drowned -> hopo:mobs/fast_drowned
+[03:00:31] [Worker-Main-2/WARN]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[03:00:31] [Worker-Main-2/WARN]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[03:00:31] [Worker-Main-2/WARN]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[03:00:36] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=-19, y=-42, z=-299}
+[03:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6856ms or 137 ticks behind
+[03:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[03:05:10] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[03:05:10] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[03:05:10] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[03:05:10] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[03:05:10] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[03:05:15] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=226, y=-7, z=321}
+[03:05:15] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=225, y=-7, z=328}
+[03:05:24] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_room -> minecraft:illager_mansion/illager_mansion_room
+[03:05:24] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_room -> minecraft:illager_mansion/illager_mansion_room
+[03:05:24] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_room -> minecraft:illager_mansion/illager_mansion_room
+[03:05:25] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:26] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:29] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:29] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:29] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:29] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:29] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house_part -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_room -> minecraft:illager_mansion/illager_mansion_room
+[03:05:30] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:31] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_house -> minecraft:illager_mansion/illager_mansion_house_lock -> minecraft:illager_mansion/illager_mansion_house_lock
+[03:05:31] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:illager_mansion/illager_mansion_room -> minecraft:illager_mansion/illager_mansion_room
+[03:05:34] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:05:34] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:05:34] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:05:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:05:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03:05:57] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
