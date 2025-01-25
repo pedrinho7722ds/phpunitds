@@ -17855,9 +17855,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_grate_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-25 02:43:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-01-25 02:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
     },
     "done": true
   },
@@ -17867,15 +17885,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-25 02:43:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:spelunker": {
     "criteria": {
       "ancient_delta": "2025-01-25 02:29:07 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-25 02:43:58 +0000"
+    },
+    "done": true
+  },
   "cozyhome:recipes/building_blocks/mud_chimney": {
     "criteria": {
       "has_mud": "2025-01-25 02:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
     },
     "done": true
   },
@@ -17885,9 +17921,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/waxed_exposed_copper_bulb": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-01-25 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-25 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-25 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-25 02:46:42 +0000"
+    },
+    "done": true
+  },
   "cozyhome:recipes/building_blocks/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 02:20:42 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/mossy_stone_brick_chimney": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_grate": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/building_blocks/cracked_mud_bricks": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-25 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-25 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-25 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_chiseled_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2025-01-25 02:38:58 +0000"
     },
     "done": true
   },

@@ -13391,6 +13391,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-25 02:53:38 +0000"
+    },
+    "done": false
+  },
   "nova_structures:adventure/find_toxic_lair": {
     "criteria": {
       "toxic_lair": "2025-01-25 02:18:07 +0000"
@@ -13403,6 +13409,30 @@
     },
     "done": false
   },
+  "croptopia:recipes/mead": {
+    "criteria": {
+      "has_honey": "2025-01-25 02:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-25 02:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-25 02:45:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-25 02:45:54 +0000"
+    },
+    "done": true
+  },
   "cozyhome:recipes/building_blocks/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 02:18:58 +0000"
@@ -13412,6 +13442,12 @@
   "cozyhome:recipes/building_blocks/mossy_stone_brick_chimney": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-25 02:25:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-25 02:45:54 +0000"
     },
     "done": true
   },
