@@ -33,6 +33,7 @@
       "mediterranean_forest": "2024-12-26 01:09:47 +0000",
       "bog": "2025-01-05 04:29:05 +0000",
       "coniferous_forest": "2024-12-15 01:21:52 +0000",
+      "hot_springs": "2025-01-25 02:13:27 +0000",
       "spider_nest": "2024-12-22 03:37:35 +0000",
       "forested_field": "2024-12-26 01:16:59 +0000",
       "end_corruption": "2024-12-29 06:26:34 +0000",
@@ -10594,7 +10595,9 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-01-04 00:41:02 +0000"
+      "swamp_hut": "2025-01-25 02:18:27 +0000",
+      "illager_camp": "2025-01-04 00:41:02 +0000",
+      "toxic_lair": "2025-01-25 02:18:07 +0000"
     },
     "done": false
   },
@@ -11777,29 +11780,31 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "willow_forest": "2025-01-05 03:01:56 +0000",
       "mountains": "2025-01-18 04:35:15 +0000",
       "silver_birch_forest": "2025-01-05 03:45:52 +0000",
+      "deciduous_forest": "2025-01-05 05:02:58 +0000",
+      "boreal_forest": "2025-01-18 04:56:12 +0000",
+      "fen": "2025-01-25 02:16:00 +0000",
+      "pine_taiga": "2025-01-05 01:48:53 +0000",
+      "autumnal_maple_forest": "2025-01-05 03:38:17 +0000",
+      "towering_cliffs": "2025-01-05 04:18:45 +0000",
+      "ancient_delta": "2025-01-25 02:29:28 +0000",
+      "marsh": "2025-01-05 05:14:42 +0000",
+      "willow_forest": "2025-01-05 03:01:56 +0000",
       "temperate_grove": "2025-01-05 01:53:42 +0000",
       "frozen_tundra": "2025-01-25 02:04:52 +0000",
       "cold_river": "2025-01-05 04:10:29 +0000",
-      "deciduous_forest": "2025-01-05 05:02:58 +0000",
       "old_growth_bayou": "2025-01-05 04:48:26 +0000",
       "grassy_beach": "2025-01-05 01:31:11 +0000",
-      "boreal_forest": "2025-01-18 04:56:12 +0000",
       "spires": "2025-01-18 04:52:53 +0000",
-      "pine_taiga": "2025-01-05 01:48:53 +0000",
       "ochard": "2025-01-05 04:49:17 +0000",
       "gravel_beach": "2025-01-05 04:12:02 +0000",
       "highland_fields": "2025-01-05 03:01:14 +0000",
       "redwoods": "2025-01-05 01:30:22 +0000",
       "maple_forest": "2025-01-05 03:37:52 +0000",
-      "autumnal_maple_forest": "2025-01-05 03:38:17 +0000",
-      "towering_cliffs": "2025-01-05 04:18:45 +0000",
       "tropics": "2025-01-05 02:33:51 +0000",
       "icy_heights": "2025-01-25 02:11:07 +0000",
-      "magnolia_highlands": "2025-01-05 03:01:13 +0000",
-      "marsh": "2025-01-05 05:14:42 +0000"
+      "magnolia_highlands": "2025-01-05 03:01:13 +0000"
     },
     "done": false
   },
@@ -11816,6 +11821,7 @@
       "grassy_beach": "2025-01-05 01:31:11 +0000",
       "boreal_forest": "2025-01-18 04:56:12 +0000",
       "spires": "2025-01-18 04:52:53 +0000",
+      "fen": "2025-01-25 02:16:00 +0000",
       "pine_taiga": "2025-01-05 01:48:53 +0000",
       "ochard": "2025-01-05 04:49:17 +0000",
       "gravel_beach": "2025-01-05 04:12:02 +0000",
@@ -13382,6 +13388,30 @@
   "cozyhome:recipes/building_blocks/stone_brick_chimney": {
     "criteria": {
       "has_stone_bricks": "2025-01-20 04:24:45 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_toxic_lair": {
+    "criteria": {
+      "toxic_lair": "2025-01-25 02:18:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-01-25 02:29:28 +0000"
+    },
+    "done": false
+  },
+  "cozyhome:recipes/building_blocks/iron_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-25 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/mossy_stone_brick_chimney": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 02:25:05 +0000"
     },
     "done": true
   },

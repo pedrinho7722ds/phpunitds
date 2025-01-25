@@ -36,6 +36,7 @@
       "overgrown_greens": "2024-12-28 00:50:50 +0000",
       "bog": "2025-01-05 04:22:44 +0000",
       "coniferous_forest": "2024-12-15 02:12:06 +0000",
+      "hot_springs": "2025-01-25 02:14:54 +0000",
       "spider_nest": "2024-12-22 03:37:59 +0000",
       "forested_field": "2025-01-18 04:55:15 +0000",
       "end_corruption": "2024-12-29 23:32:28 +0000",
@@ -237,6 +238,7 @@
       "minecraft:blaze": "2024-12-21 04:48:25 +0000",
       "minecraft:skeleton": "2024-12-15 01:30:24 +0000",
       "minecraft:ravager": "2024-12-23 02:22:21 +0000",
+      "minecraft:bogged": "2025-01-25 02:26:38 +0000",
       "minecraft:ghast": "2024-12-21 06:25:30 +0000",
       "minecraft:hoglin": "2024-12-28 04:21:04 +0000",
       "minecraft:breeze": "2024-12-15 04:39:20 +0000",
@@ -14313,7 +14315,9 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-01-04 00:41:01 +0000"
+      "swamp_hut": "2025-01-25 02:19:07 +0000",
+      "illager_camp": "2025-01-04 00:41:01 +0000",
+      "toxic_lair": "2025-01-25 02:23:19 +0000"
     },
     "done": false
   },
@@ -15574,6 +15578,7 @@
       "autumnal_maple_forest": "2025-01-05 03:38:17 +0000",
       "towering_cliffs": "2025-01-05 04:18:45 +0000",
       "chalk_cliffs": "2025-01-05 01:31:26 +0000",
+      "ancient_delta": "2025-01-25 02:29:07 +0000",
       "marsh": "2025-01-05 05:14:50 +0000",
       "willow_forest": "2025-01-05 03:01:43 +0000",
       "temperate_grove": "2025-01-05 01:53:42 +0000",
@@ -17847,6 +17852,42 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-01-20 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-25 02:24:09 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_toxic_lair": {
+    "criteria": {
+      "toxic_lair": "2025-01-25 02:23:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-01-25 02:29:07 +0000"
+    },
+    "done": false
+  },
+  "cozyhome:recipes/building_blocks/mud_chimney": {
+    "criteria": {
+      "has_mud": "2025-01-25 02:24:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_cattail": "2025-01-25 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/iron_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-25 02:20:42 +0000"
     },
     "done": true
   },
