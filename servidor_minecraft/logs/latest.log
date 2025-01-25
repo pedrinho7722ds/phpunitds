@@ -1,0 +1,1134 @@
+[01:41:30] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.9
+[01:41:30] [main/INFO]: Loading 352 mods:
+	- additionalstructures 5.0.0-fabric
+	- advancednetherite 2.1.6-1.21
+	- amendments 1.21-1.2.19
+	- animal_feeding_trough 1.1.2+1.21
+	- ante 1.2
+	- appleskin 3.0.6+mc1.21
+	- architectury 13.0.8
+	- azurelib 2.3.15
+	- badpackets 0.8.1
+	- balm-fabric 21.0.20
+	   \-- kuma_api 21.0.5-SNAPSHOT
+	- basicweapons 1.2.10.1+1.21
+	- bcc 21.0.1
+	- bclib 21.0.13
+	- betterarcheology 1.3.1
+	- bettercombat 2.0.4+1.21.1
+	- betterdeserttemples 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterendisland 1.21.1-Fabric-3.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- betterfortresses 1.21.1-Fabric-3.1.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterjungletemples 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betternether 21.0.11
+	- betteroceanmonuments 1.21.1-Fabric-4.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- betterstrongholds 1.21.1-Fabric-5.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bigendcitiesmod 1.21-1.1.0
+	- biomesoplenty 21.0.0.18
+	- bosses_of_mass_destruction 1.10.2-1.21.1
+	   \-- multipart_entities 1.7-1.21
+	- c2me 0.2.0+alpha.11.109+1.21
+	   |-- c2me-base 0.2.0+alpha.11.109+1.21
+	   |-- c2me-client-uncapvd 0.2.0+alpha.11.109+1.21
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.11.109+1.21
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.11.109+1.21
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.11.109+1.21
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.11.109+1.21
+	   |-- c2me-notickvd 0.2.0+alpha.11.109+1.21
+	   |-- c2me-opts-allocs 0.2.0+alpha.11.109+1.21
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.11.109+1.21
+	   |-- c2me-opts-chunkio 0.2.0+alpha.11.109+1.21
+	   |-- c2me-opts-math 0.2.0+alpha.11.109+1.21
+	   |-- c2me-opts-scheduling 0.2.0+alpha.11.109+1.21
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.11.109+1.21
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.11.109+1.21
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.11.109+1.21
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.11.109+1.21
+	   |-- c2me-server-utils 0.2.0+alpha.11.109+1.21
+	   |-- c2me-threading-chunkio 0.2.0+alpha.11.109+1.21
+	   |-- c2me-threading-lighting 0.2.0+alpha.11.109+1.21
+	   |-- c2me-threading-worldgen 0.2.0+alpha.11.109+1.21
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
+	- cardiac 0.5.3.3
+	- cardinal-components 6.1.2
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-block 6.1.2
+	   |-- cardinal-components-chunk 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   |-- cardinal-components-item 6.1.2
+	   |-- cardinal-components-level 6.1.2
+	   |-- cardinal-components-scoreboard 6.1.2
+	   \-- cardinal-components-world 6.1.2
+	- carryon 2.2.1
+	- cavedust 3.0.0
+	   \-- kirin 1.19.0+1.21
+	- chunky 1.4.16
+	- cicada 0.9.1+1.21-1.21.1
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- clumps 18.0.0.2
+	- cobweb 1.3.0
+	- collective 7.87
+	- comforts 9.0.3+1.21.1
+	   \-- spectrelib 0.17.2+1.21
+	        |-- com_electronwill_night-config_core 3.8.0
+	        \-- com_electronwill_night-config_toml 3.8.0
+	- coroutil 1.21.0-1.3.7
+	- cozyhome 1.0.0
+	- creativecore 2.12.9
+	   \-- net_neoforged_bus 7.2.0
+	- creeperoverhaul 4.0.5
+	   \-- com_teamresourceful_resourceful-cosmetics-4j 1.0.3
+	- cristellib 1.2.8
+	   \-- blue_endless_jankson 1.2.3
+	- croptopia 3.0.9
+	- ctov 3.5.4
+	- cupboard 1.21-2.7
+	- darktimer 1.2.1
+	- debugify 1.21+1.0
+	- diagonalfences 21.0.0
+	   \-- diagonalblocks 21.0.1
+	- dimensional_traders 2.0
+	- do_a_barrel_roll 3.7.2
+	   \-- mixinsquared 0.1.2-beta.4
+	- dragonloot 1.1.6
+	- duckling 5.0.1
+	- dungeons_arise_seven_seas 1.0.3
+	- easyanvils 21.0.5
+	- easymagic 21.0.4
+	- entityculling 1.7.1
+	- epherolib 1.2.0-1.20.6
+	- eternal_starlight 0.2.3+1.21.1+fabric
+	- explorify 1.6.2
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabric-language-kotlin 1.12.3+kotlin.2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.4
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- fallingtrees 0.12.7
+	- farmers_structures 1.0.0
+	- farmersdelight 1.21-2.1.10+refabricated
+	   |-- mm 2.3
+	   |-- porting_lib_base 3.1.0-beta+fdrf.1+1.21
+	   |    |-- com_electronwill_night-config_core 3.8.0
+	   |    |-- com_electronwill_night-config_toml 3.8.0
+	   |    |-- mm 2.3
+	   |    |-- porting_lib_accessors 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_asm 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_attributes 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_blocks 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_common 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_core 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_entity 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_extensions 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_fluids 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_gametest 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_gui_utils 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_mixin_extensions 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_tags 3.0
+	   |    \-- porting_lib_transfer 3.1.0-beta+fdrf.1+1.21
+	   |-- porting_lib_config 3.1.0-beta+fdrf.1+1.21
+	   |    |-- com_electronwill_night-config_core 3.8.0
+	   |    |-- com_electronwill_night-config_toml 3.8.0
+	   |    |-- porting_lib_core 3.1.0-beta+fdrf.1+1.21
+	   |    \-- porting_lib_gametest 3.1.0-beta+fdrf.1+1.21
+	   |-- porting_lib_item_abilities 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_blocks 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_core 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_gametest 3.1.0-beta+fdrf.1+1.21
+	   |    \-- porting_lib_level_events 3.1.0-beta+fdrf.1+1.21
+	   |-- porting_lib_lazy_registration 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_core 3.1.0-beta+fdrf.1+1.21
+	   |    \-- porting_lib_gametest 3.1.0-beta+fdrf.1+1.21
+	   |-- porting_lib_loot 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_conditions 3.1.0-beta+fdrf.1+1.21
+	   |    |-- porting_lib_core 3.1.0-beta+fdrf.1+1.21
+	   |    \-- porting_lib_gametest 3.1.0-beta+fdrf.1+1.21
+	   \-- porting_lib_recipe_book_categories 3.1.0-beta+fdrf.1+1.21
+	        |-- porting_lib_core 3.1.0-beta+fdrf.1+1.21
+	        \-- porting_lib_gametest 3.1.0-beta+fdrf.1+1.21
+	- farsight 1.21-4.4
+	   \-- org_jctools_jctools-core 4.0.1
+	- fastpaintings 1.21-1.2.15
+	- forgeconfigapiport 21.0.8
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
+	- formations 1.0.3
+	- formationsnether 1.0.5
+	- formationsoverworld 1.0.4
+	- framework 0.9.1
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- fzzy_config 0.5.9+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- gd_betterloot 1.0
+	- geckolib 4.5.8
+	- geophilic 3.1.1
+	- glitchcore 2.0.0.3
+	   \-- net_jodah_typetools 0.6.3
+	- globalxp 1.12
+	- guardvillagers 2.1.2-1.21
+	   \-- midnightlib 1.5.7
+	- handcrafted 4.0.1
+	- hopobettermineshaft 1.2.7
+	- hopobetterruinedportal 1.4.3
+	- hopobetterunderwaterruins 1.2.0
+	- incendium 5.4.3
+	- ipo 4
+	- itemphysic 1.7.2
+	- java 21
+	- justhammers 21.0.3
+	- justpotionrings 1.3
+	- knightlib 1.2.0
+	- knightquest 1.8.1
+	- konkrete 1.9.9
+	- krypton 0.2.8
+	   \-- com_velocitypowered_velocity-native 3.3.0-SNAPSHOT
+	- lios_overhauled_villages 1.18.2-1.21-v0.0.5
+	- lithium 0.13.0
+	- lithostitched 1.3.8
+	- livingthings 1.21-2.1.0
+	- mace3d 1.1.0
+	- macevariants 1.0.4
+	- mcwfurnitures 3.3.0
+	- mcwlights 1.1.1
+	- mcwwindows 2.3.2
+	- medieval_buildings 1.0.2
+	- medievalend 1.0.2
+	- mes 1.3.5-1.21-fabric
+	- minecraft 1.21
+	- mob_drops_recipes_end 2.1.0
+	- mob_drops_recipes_nether 2.1.0
+	- mob_drops_recipes_overworld 2.1.0
+	- mobs_of_mythology 2.1.0
+	- monolib 1.4.1
+	- moonlight 1.21-2.17.12
+	- moveboats 3.4
+	- mr_aesthetic_andperformant 4.5
+	- mr_clifftree 1.7
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_lukis_grandcapitals 1.1.1
+	- mr_nbc 2.3
+	- mvs 4.2.6-1.21-fabric
+	- netherportalfix 21.0.2
+	- noisium 2.3.0+mc1.21-1.21.1
+	- nullscape 1.2.9
+	- nyfsspiders 2.3.1
+	   \-- commonnetworking 1.0.11-1.21
+	- octolib 0.5.0.1
+	   \-- org_yaml_snakeyaml 2.2
+	- packedup 1.0.30+c
+	- pandalib 0.4.2
+	- patchouli 1.21-87-FABRIC
+	   \-- fiber 0.23.0-2
+	- playeranimator 2.0.0+1.21.1
+	- pointblank 1.9.6
+	- puzzleslib 21.0.28
+	- quartzelv 2.3.0+1.21
+	- realisticbees 4.0
+	- refurbished_furniture 1.0.6
+	- regions_unexplored 0.5.6
+	- repeatable_trial_vaults 1.0.2
+	- resourcefulconfig 3.0.8
+	- resourcefullib 3.0.11
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rocks 1.8.2
+	   \-- midnightlib 1.5.7
+	- rpc 1.1.2
+	- sereneseasons 10.0.0.6
+	   \-- net_jodah_typetools 0.6.3
+	- servercore 1.5.4+1.21
+	   |-- fabric-permissions-api-v0 0.3.1
+	   |-- org_yaml_snakeyaml 2.2
+	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
+	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
+	- shulkerboxtooltip 5.1.2+1.21
+	- silk-all 1.10.7
+	   |-- silk-commands 1.10.7
+	   |-- silk-core 1.10.7
+	   |-- silk-game 1.10.7
+	   |-- silk-igui 1.10.7
+	   |-- silk-nbt 1.10.7
+	   |-- silk-network 1.10.7
+	   \-- silk-persistence 1.10.7
+	- simplemod 1.21
+	- skinlayers3d 1.7.4
+	- skipservercheck 1.0.0
+	- skyvillages 1.0.6
+	- smartbrainlib 1.14.5
+	- sound_physics_remastered 1.21.1-1.4.8
+	- stackrefill 4.5
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17+c
+	- t_and_t 1.13.2
+	- teamaddoners 2.0.0
+	- tectonic 2.4.1
+	- terrablender 4.0.0.2
+	- terralith 2.5.7
+	- trade_cycling 1.21.1-1.0.15
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	   \-- fabric-screen-api-v1 2.0.24+b55973446a
+	- travelersbackpack 10.1.8
+	- trinkets 3.10.0
+	- underground_bunkers 1.0.4
+	- universal-graves 3.4.4+1.21
+	   |-- common-protection-api 1.0.0
+	   |-- placeholder-api 2.4.1+1.21
+	   |-- polymer-core 0.9.14+1.21.1
+	   |    |-- polymer-networking 0.9.14+1.21.1
+	   |    |    \-- polymer-common 0.9.14+1.21.1
+	   |    |         \-- packet_tweaker 0.5.5+1.21
+	   |    \-- polymer-registry-sync-manipulator 0.9.14+1.21.1
+	   |-- polymer-resource-pack 0.9.14+1.21.1
+	   |    \-- polymer-common 0.9.14+1.21.1
+	   |         \-- packet_tweaker 0.5.5+1.21
+	   |-- polymer-virtual-entity 0.9.14+1.21.1
+	   |    \-- polymer-common 0.9.14+1.21.1
+	   |         \-- packet_tweaker 0.5.5+1.21
+	   |-- predicate-api 0.5.1+1.21
+	   |-- server_translations_api 2.3.1+1.21-pre2
+	   \-- sgui 1.6.0+1.21
+	- usefulhats 1.21-6.4.1.0
+	- variantsandventures 1.0.6
+	- vcinteraction 1.21.1-1.0.8
+	- veinminer 2.1.5
+	   \-- de_miraculixx_core 2.1.5
+	- villagernames 8.1
+	- visualworkbench 21.0.5
+	- voicechat 1.21.1-2.5.20
+	   \-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	- watut 1.21.0-1.1.3
+	- waveycapes 1.4.12
+	- waystones 21.1.5
+	- worldedit 7.3.8+6939-7d32b45
+	- wover 21.0.13
+	   |-- wover-biome 21.0.13
+	   |-- wover-block 21.0.13
+	   |-- wover-common 21.0.13
+	   |-- wover-core 21.0.13
+	   |-- wover-datagen 21.0.13
+	   |-- wover-events 21.0.13
+	   |-- wover-feature 21.0.13
+	   |-- wover-generator 21.0.13
+	   |-- wover-item 21.0.13
+	   |-- wover-math 21.0.13
+	   |-- wover-preset 21.0.13
+	   |-- wover-recipe 21.0.13
+	   |-- wover-structure 21.0.13
+	   |-- wover-surface 21.0.13
+	   |-- wover-tag 21.0.13
+	   \-- wover-ui 21.0.13
+	- wthit 12.4.5
+	- wunderlib 21.0.8
+	- yet_another_config_lib_v3 3.6.2+1.21-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.21.1-Fabric-5.1.3
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+[01:41:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/phpunitds/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:41:31] [main/INFO]: Compatibility level set to JAVA_21
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[01:41:31] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[01:41:31] [main/INFO]: Disabling com.ishland.c2me.opts.chunk_access.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[01:41:31] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@13.0.8 (*) (defined in c2me)
+[01:41:31] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[01:41:31] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[01:41:31] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[01:41:31] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[01:41:31] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'globalxp-fabric-1.20.6-refmap.json' for globalxp.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:31] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:32] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:32] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:32] [main/WARN]: Mod 'c2me' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[01:41:32] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 3 override(s) found
+[01:41:32] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:32] [main/WARN]: Reference map 'skyvillages-common-common-refmap.json' for skyvillages.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:32] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:32] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:41:32] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[01:41:32] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[01:41:32] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[01:41:32] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[01:41:32] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[01:41:32] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[01:41:33] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found dust.mixins.json:ClientWorldAccessor from mod cavedust
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_340 was not found dust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_465 was not found creativecore.fabric.mixins.json:AbstractContainerScreenMixin from mod creativecore
+[01:41:33] [main/WARN]: Force-disabling mixin 'ai.task.memory_change_counting.BrainMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
+[01:41:33] [main/WARN]: Force-disabling mixin 'ai.task.memory_change_counting.MultiTickTaskMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
+[01:41:33] [main/WARN]: Force-disabling mixin 'alloc.chunk_ticking.ServerChunkManagerMixin' as rule 'mixin.alloc.chunk_ticking' (added by mods [servercore]) disables it and children
+[01:41:33] [main/WARN]: Force-enabling mixin 'block.hopper.worldedit_compat.WorldChunkMixin' as rule 'mixin.block.hopper.worldedit_compat' (added by mods [lithium-fabric]) enables it
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_591 (java.lang.ClassNotFoundException: net/minecraft/class_591)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_591 was not found playerAnimator-common.mixins.json:PlayerModelAccessor from mod playeranimator
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_7766 (java.lang.ClassNotFoundException: net/minecraft/class_7766)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_7766 was not found pointblank.fabric.mixins.json:SpriteLoaderMixin from mod pointblank
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_1066 (java.lang.ClassNotFoundException: net/minecraft/class_1066)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_1066 was not found rpc.mixins.json:DownloadedPackSourceMixin from mod rpc
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_9044 (java.lang.ClassNotFoundException: net/minecraft/class_9044)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_9044 was not found rpc.mixins.json:ServerPackManagerMixin from mod rpc
+[01:41:33] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[01:41:33] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[01:41:33] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[01:41:33] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[01:41:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:41:46] [main/WARN]: Discarding @Unique public method getSlotIndex in porting_lib_extensions.mixins.json:common.SlotMixin from mod porting_lib_extensions because it already exists in net.minecraft.class_1735
+[01:41:49] [main/INFO]: fabric loader environment detected
+[01:41:49] [main/INFO]: Loaded config for: cupboard.json
+[01:41:49] [main/INFO]: Reflections took 168 ms to scan 1 urls, producing 9 keys and 76 values
+[01:41:50] [main/ERROR]: No data fixer registered for seat
+[01:41:51] [main/INFO]: [Regions Unexplored] generating and loading config
+[01:41:51] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[01:41:51] [main/INFO]: Loaded config amendments-common.json
+[01:41:51] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[01:41:52] [main/INFO]: Registered azurelib config for auto-sync function
+[01:41:52] [main/INFO]: [Basic Weapons] Armaments added
+[01:41:52] [main/INFO]: Better Compatibility Checker starting
+[01:41:52] [main/INFO]: Loading config file
+[01:41:52] [main/INFO]: Config file loaded
+[01:41:52] [main/INFO]: Registering Worldgen/structure Types for Better Archeology
+[01:41:52] [main/ERROR]: No data fixer registered for betterarcheology:bombentity
+[01:41:52] [main/INFO]: Registering Entity Types for Better Archeology
+[01:41:52] [main/INFO]: Registering Enchantments for Better Archeology
+[01:41:52] [main/INFO]: Registering Creative Mode Tabs for Better Archeology
+[01:41:52] [main/INFO]: Registering Items for Better Archeology
+[01:41:52] [main/INFO]: Registering Blocks for Better Archeology
+[01:41:52] [main/INFO]: Registering Tags for Better Archeology
+[01:41:52] [main/INFO]: Registering Block Entity Types for Better Archeology
+[01:41:52] [main/INFO]: Registering Menus for Better Archeology
+[01:41:52] [main/INFO]: Registering Recipe Serializers for Better Archeology
+[01:41:52] [main/INFO]: Registering Villager Professions for Better Archeology
+[01:41:52] [main/INFO]: Registering Events for Better Archeology
+[01:41:52] [main/INFO]: Registering Sound Events for Better Archeology
+[01:41:52] [main/INFO]: Registering Villager Trades for Better Archeology
+[01:41:52] [main/INFO]: Reflections took 12 ms to scan 1 urls, producing 1 keys and 2 values
+[01:41:52] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:41:52] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:41:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:41:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:41:52] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[01:41:52] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[01:41:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:41:52] [main/INFO]: =^..^=    BetterNether for 1.21    =^..^=
+[01:41:52] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[01:41:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:41:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:41:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:41:52] [main/INFO]: [STDOUT]: All 6 have been set properly
+[01:41:53] [main/ERROR]: No data fixer registered for life_orb
+[01:41:53] [main/ERROR]: No data fixer registered for thrown_life_bottle
+[01:41:53] [main/INFO]: Loading Collective version 7.87.
+[01:41:53] [main/INFO]: Registering Mod Items for cozyhome
+[01:41:53] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
+[01:41:53] [Cicada thread 0/INFO]: [do_a_barrel_roll] I'm here, ready to rumble!
+[01:41:55] [main/INFO]: Registering ModBlocks for cozyhome
+[01:41:55] [main/INFO]: Registering block entities for cozyhome
+[01:41:55] [main/INFO]: Registering Item Groups for cozyhome
+[01:41:55] [main/INFO]: Registering Sounds for cozyhome
+[01:41:55] [main/INFO]: Registering Mod Data Components for cozyhome
+[01:41:55] [main/ERROR]: No data fixer registered for jungle_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for bamboo_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for desert_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for badlands_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for hills_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for savannah_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for mushroom_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for swamp_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for dripstone_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for cave_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for spruce_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for beach_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for snowy_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for ocean_creeper
+[01:41:55] [main/ERROR]: No data fixer registered for birch_creeper
+[01:41:55] [main/INFO]: Creating default config file: croptopia_v3.conf
+[01:41:55] [main/INFO]: Enabled 28 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-88371, MC-89146, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-129909, MC-132878, MC-135971, MC-155509, MC-160095, MC-179072, MC-183990, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
+[01:41:55] [main/INFO]: Successfully Debugify'd your game!
+[01:41:55] [main/INFO]: Constructing common components for diagonalblocks:main
+[01:41:56] [main/INFO]: Constructing common components for diagonalfences:main
+[01:41:56] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 26ms
+[01:41:56] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 21ms
+[01:41:56] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 59ms
+[01:41:56] [main/INFO]: YAaargh!
+[01:41:56] [main/INFO]: Constructing common components for easyanvils:main
+[01:41:56] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[01:41:56] [main/INFO]: Constructing common components for easymagic:main
+[01:41:56] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[01:41:57] [main/INFO]: Processing wover.datapack.registry Entrypoints
+[01:41:57] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.BiomeDatapackRegistryEntrypoint
+[01:41:57] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.FeatureDatapackRegistryEntrypoint
+[01:41:57] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.ItemDatapackRegistryEntrypoint
+[01:41:57] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.StructureDatapackRegistryEntrypoint
+[01:41:57] [main/INFO]:     - Processing Entrypoint: org.betterx.wover.entrypoint.SurfaceDatapackRegistryEntrypoint
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:aethersent_meteor
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:aetherstrike_rocket
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:boarwarf
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:astral_golem
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:gleech
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:gleech_egg
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:lonestar_skeleton
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:nightfall_spider
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:thirst_walker
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:creteor
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:tiny_creteor
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:ent
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:ratlin
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:shadow_snail
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:yeti
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:aurora_deer
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:crystallized_moth
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:shimmer_lacewing
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:grimstone_golem
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:tower_squid
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:luminofish
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:luminaris
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:twilight_gaze
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:eye_of_seeking
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:crest
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:the_gatekeeper
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:gatekeeper_fireball
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:starlight_golem
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:golem_laser_beam
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:energized_flame
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:freeze
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:frozen_tube
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:lunar_monstrosity
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:lunar_monstrosity_breath
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:lunar_spore
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:lunar_thorn
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:tangled
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:tangled_skull
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:tangled_hatred
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:tangled_hatred_part
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:shattered_blade
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:amaramber_arrow
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:voracious_arrow
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:sonar_bomb
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:ashen_snowball
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:frozen_bomb
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:soulit_spectator
+[01:41:57] [main/ERROR]: No data fixer registered for eternal_starlight:chain_of_souls
+[01:41:57] [main/INFO]: Successfully loaded config 'fallingtrees_common'
+[01:41:57] [main/INFO]: Successfully saved config 'fallingtrees_common'
+[01:41:58] [main/ERROR]: No data fixer registered for rotten_tomato
+[01:41:58] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[01:41:58] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[01:41:58] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[01:41:58] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[01:41:58] [main/ERROR]: No data fixer registered for anomaly
+[01:41:58] [main/ERROR]: No data fixer registered for season_sensor
+[01:42:00] [main/ERROR]: No data fixer registered for handcrafted
+[01:42:00] [main/ERROR]: No data fixer registered for gremlin
+[01:42:00] [main/ERROR]: No data fixer registered for eldbomb
+[01:42:00] [main/ERROR]: No data fixer registered for eldknight
+[01:42:00] [main/ERROR]: No data fixer registered for samhain
+[01:42:00] [main/ERROR]: No data fixer registered for swampman
+[01:42:00] [main/ERROR]: No data fixer registered for fallen_knight
+[01:42:00] [main/ERROR]: No data fixer registered for ratman
+[01:42:00] [main/ERROR]: No data fixer registered for lizzy
+[01:42:00] [main/ERROR]: No data fixer registered for bad_patch
+[01:42:00] [main/ERROR]: No data fixer registered for ghastling
+[01:42:00] [main/ERROR]: No data fixer registered for momma_lizzy
+[01:42:00] [main/ERROR]: No data fixer registered for ghosty
+[01:42:00] [main/ERROR]: No data fixer registered for netherman
+[01:42:00] [main/ERROR]: No data fixer registered for netherman_clone
+[01:42:00] [main/ERROR]: No data fixer registered for netherman_projectile_charge
+[01:42:00] [main/ERROR]: No data fixer registered for swampman_axe
+[01:42:00] [main/INFO]: [Knight Quest] The mod 'forgeconfigapiport' was detected, reading config file `knightquest.toml` for Knight Quest.
+[01:42:00] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[01:42:00] [main/INFO]: ---------------------------
+[01:42:00] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[01:42:00] [main/INFO]:  
+[01:42:00] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[01:42:00] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[01:42:00] [main/INFO]:  
+[01:42:00] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[01:42:00] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[01:42:00] [main/INFO]:  
+[01:42:00] [main/INFO]: Json-smart Copyright © netplex.
+[01:42:00] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[01:42:00] [main/INFO]:  
+[01:42:00] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[01:42:00] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[01:42:00] [main/INFO]: ---------------------------
+[01:42:00] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[01:42:00] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[01:42:01] [main/INFO]: Loaded FabricRegistrationFactory for service Factory
+[01:42:01] [main/INFO]: Loaded FabricPlatformHelper for service IPlatformHelper
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:elephant
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:giraffe
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:lion
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:shark
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:penguin
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:ostrich
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:flamingo
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:crab
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:mantaray
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:raccoon
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:owl
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:ancient_blaze
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:koala
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:snail
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:monkey
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:nether_knight
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:shroomie
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:seahorse
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:baby_ender_dragon
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:peacock
+[01:42:01] [main/ERROR]: No data fixer registered for livingthings:thrown_ostrich_egg
+[01:42:01] [main/INFO]: Config 'livingthings.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'penguin.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'elephant.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'giraffe.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'lion.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'shark.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'ostrich.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'flamingo.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'crab.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'mantaray.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'raccoon.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'owl.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'ancient_blaze.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'koala.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'snail.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'monkey.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'nether_knight.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'shroomie.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'seahorse.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'baby_ender_dragon.json' was successfully loaded.
+[01:42:01] [main/INFO]: Config 'peacock.json' was successfully loaded.
+[01:42:01] [main/INFO]: Registering MobAttributes
+[01:42:01] [main/INFO]: Registering SpawnPlacements
+[01:42:01] [main/INFO]: Definitely not up to no good
+[01:42:01] [main/INFO]: Registered mobs_of_mythology config for auto-sync function
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:automaton
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:chupacabra
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold_warrior
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:drake
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:sporeling
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:basilisk
+[01:42:01] [main/ERROR]: No data fixer registered for mobs_of_mythology:pegasus
+[01:42:01] [main/INFO]: Loading Noisium.
+[01:42:01] [main/INFO]: Hello Fabric world!
+[01:42:01] [main/INFO]: Registering C2S receiver with id pandalib:client_config_sync
+[01:42:01] [main/WARN]: DID NOT bootstrap VanillaRegistries.
+[01:42:02] [main/ERROR]: Failed to load book betternether:betternether_book defined by mod betternether, skipping
+java.lang.IllegalArgumentException: Book betternether:betternether_book has use_resource_pack set to false. This behaviour was removed in 1.20. The book author should enable this flag and move all book contents clientside to /assets/, leaving the book.json in /data/. See https://vazkiimods.github.io/Patchouli/docs/upgrading/upgrade-guide-120 for details.
+	at knot/vazkii.patchouli.common.book.Book.<init>(Book.java:146) ~[Patchouli-1.21-87-FABRIC.jar:?]
+	at knot/vazkii.patchouli.common.book.BookRegistry.loadBook(BookRegistry.java:90) ~[Patchouli-1.21-87-FABRIC.jar:?]
+	at knot/vazkii.patchouli.common.book.BookRegistry.lambda$init$3(BookRegistry.java:75) ~[Patchouli-1.21-87-FABRIC.jar:?]
+	at java.base/java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at knot/vazkii.patchouli.common.book.BookRegistry.init(BookRegistry.java:70) ~[Patchouli-1.21-87-FABRIC.jar:?]
+	at knot/vazkii.patchouli.fabric.common.FabricModInitializer.onInitialize(FabricModInitializer.java:42) ~[Patchouli-1.21-87-FABRIC.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63) [fabric-loader-0.16.9.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:111) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
+[01:42:02] [main/INFO]: Loading mod pointblank
+[01:42:02] [main/INFO]: [STDERR]: java.nio.file.NoSuchFileException: ./pointblank
+[01:42:02] [main/INFO]: [STDERR]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+[01:42:02] [main/INFO]: [STDERR]: 	at java.base/sun.nio.fs.UnixException.asIOException(UnixException.java:115)
+[01:42:02] [main/INFO]: [STDERR]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newDirectoryStream(UnixFileSystemProvider.java:477)
+[01:42:02] [main/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.newDirectoryStream(Files.java:481)
+[01:42:02] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.registry.ExtensionRegistry.scanExtensions(ExtensionRegistry.java:426)
+[01:42:02] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.registry.ExtensionRegistry.discoverExtensions(ExtensionRegistry.java:263)
+[01:42:02] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.PointBlankInitializer.init(PointBlankInitializer.java:37)
+[01:42:02] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.PointBlankMod.onInitialize(PointBlankMod.java:9)
+[01:42:02] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399)
+[01:42:02] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63)
+[01:42:02] [main/INFO]: [STDERR]: 	at knot//net.minecraft.server.Main.main(Main.java:111)
+[01:42:02] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480)
+[01:42:02] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[01:42:02] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+[01:42:02] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+[01:42:02] [main/ERROR]: No data fixer registered for javelin_rocket
+[01:42:02] [main/ERROR]: No data fixer registered for grenade
+[01:42:02] [main/ERROR]: No data fixer registered for at4_rocket
+[01:42:02] [main/ERROR]: No data fixer registered for grenade40mm
+[01:42:02] [main/ERROR]: No data fixer registered for grenade20mm
+[01:42:02] [main/ERROR]: No data fixer registered for smaw_rocket
+[01:42:02] [main/INFO]: Constructing common components for puzzleslib:main
+[01:42:02] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[01:42:02] [main/INFO]: Initializing Regions Unexplored from Fabric Mod Initializer entrypoint.
+[01:42:03] [main/INFO]: [ServerCore] Loaded V1.5.4+1.21!
+[01:42:03] [main/INFO]: Initializing Silk
+[01:42:03] [main/INFO]: Hello Fabric world!
+[01:42:03] [main/INFO]: Server Movement Check Disabled
+[01:42:03] [main/INFO]: [STDOUT]: Team Addoners Initializing
+[01:42:03] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01:42:03] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[01:42:03] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[01:42:03] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[01:42:03] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[01:42:03] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[01:42:03] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[01:42:03] [main/INFO]: Already initialized Regions Unexplored from Fabric Mod Initializer entrypoint.
+[01:42:03] [main/INFO]: Registered region regions_unexplored:primary to index 4 for type OVERWORLD
+[01:42:03] [main/INFO]: Registered region regions_unexplored:secondary to index 5 for type OVERWORLD
+[01:42:03] [main/INFO]: Registered region regions_unexplored:nether to index 3 for type NETHER
+[01:42:03] [main/ERROR]: No data fixer registered for 
+[01:42:04] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for block.minecraft.water (Fluid Amount Required: 81000) with the ID 0
+[01:42:04] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for block.minecraft.lava (Fluid Amount Required: 81000) with the ID 1
+[01:42:04] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[01:42:04] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for block.minecraft.air (Fluid Amount Required: 81000) with the ID 3
+[01:42:04] [main/INFO]: Veinminer Version: 2.1.5 (fabric)
+[01:42:04] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[01:42:04] [main/INFO]: Constructing common components for visualworkbench:main
+[01:42:04] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[01:42:04] [main/INFO]: [voicechat] Compatibility version 18
+[01:42:04] [main/INFO]: [voicechat] Loading plugins
+[01:42:04] [main/INFO]: [voicechat] Loaded 2 plugin(s)
+[01:42:04] [main/INFO]: [voicechat] Initializing plugins
+[01:42:04] [main/INFO]: Initializing Simple Voice Chat integration
+[01:42:04] [main/INFO]: [voicechat] Initialized 2 plugin(s)
+[01:42:04] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[01:42:04] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[01:42:04] [DefaultDispatcher-worker-1/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[01:42:05] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@66243ff0]
+[01:42:05] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[01:42:05] [main/INFO]: [WTHIT] Initializing plugin betternether:plugin at org.betterx.betternether.integrations.wthit.WailaPlugin
+[01:42:05] [main/INFO]: Registering Waila-/Wthit-Plugin.
+[01:42:05] [main/INFO]: [WTHIT] Initializing plugin globalxp:plugin at bl4ckscor3.mod.globalxp.compat.WTHITDataProvider
+[01:42:05] [main/INFO]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
+[01:42:05] [main/INFO]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[01:42:05] [main/INFO]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[01:42:05] [main/INFO]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[01:42:05] [main/INFO]: [WTHIT] Initializing common plugin waila:fabric at mcp.mobius.waila.plugin.fabric.FabricCommonPlugin
+[01:42:05] [main/INFO]: [WTHIT] Initializing plugin waystones:wthit at net.blay09.mods.waystones.compat.WTHITIntegration
+[01:42:05] [main/INFO]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[01:42:05] [main/ERROR]: [WTHIT] Found plugins registered via legacy platform-dependant method:
+[01:42:05] [main/ERROR]: [WTHIT] [waystones:wthit]
+[01:42:05] [main/INFO]: [WTHIT] Plugin config reloaded
+[01:42:05] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[01:42:05] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:42:05] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[01:42:05] [main/INFO]: Initialized block sets in 33ms
+[01:42:05] [main/ERROR]: No data fixer registered for falling_lantern
+[01:42:05] [main/INFO]: Loaded config fastpaintings-common.json
+[01:42:05] [main/INFO]: Initialized color sets in 52ms
+[01:42:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:42:06] [main/INFO]: Ignoring Patch{ModCore: bclib (bclib):3.0.11:196619}
+[01:42:06] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):5.3.5:328453}
+[01:42:06] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):8.2.2:524802}
+[01:42:06] [main/INFO]: Ignoring Patch{ModCore: betternether (betternether):9.0.1:589825}
+[01:42:06] [main/INFO]: Running Pre Patchers on ./world/.
+[01:42:06] [main/INFO]: Everything up to date
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (22917771)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6967bc48)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (643a117)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (1cbb9520)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (4384ecad)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (6cac998)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:bone_reef (class_4762[temperature=-100, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_glowing_woods (class_4762[temperature=4000, humidity=-500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:crimson_pinewood (class_4762[temperature=3500, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:flooded_deltas (class_4762[temperature=-3000, humidity=-100, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1750])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:gravel_desert (class_4762[temperature=-1000, humidity=1000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=2000])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:magma_land (class_4762[temperature=8000, humidity=-7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_grasslands (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_jungle (class_4762[temperature=5000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_mushroom_forest_edge (class_4762[temperature=0, humidity=7000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland (class_4762[temperature=1000, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:nether_swampland_terraces (class_4762[temperature=800, humidity=8500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_fungiwoods (class_4762[temperature=0, humidity=6500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_swampland (class_4762[temperature=1000, humidity=7500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1000])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:old_warped_woods (class_4762[temperature=0, humidity=5500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3750])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:poor_nether_grasslands (class_4762[temperature=0, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:soul_plain (class_4762[temperature=100, humidity=-5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:sulfuric_bone_reef (class_4762[temperature=0, humidity=6000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=3700])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest (class_4762[temperature=4500, humidity=8000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:upside_down_forest_cleared (class_4762[temperature=4500, humidity=3000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=1250])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest (class_4762[temperature=-5000, humidity=5000, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Adding Nether Biome to Fabric: betternether:wart_forest_edge (class_4762[temperature=-5000, humidity=4500, continentalness=0, erosion=0, depth=0, weirdness=0, offset=0])
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (27c34d45)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:08] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (4c596d6b)
+[01:42:08] [main/INFO]: Unable to build Biome List yet
+[01:42:08] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:08] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:09] [Worker-Main-3/ERROR]: Unable to building bartering table
+[01:42:09] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/mvs:rare - Failed to parse either. First: Not a valid resource location: #minecraft:enchant_with_levels Non [a-z0-9_.-] character in namespace of location: #minecraft:enchant_with_levels; Second: Not a json array: {"function":"#minecraft:enchant_with_levels","options":"#minecraft:on_random_loot","levels":{"type":"minecraft:uniform","min":20,"max":39},"treasure":true}
+[01:42:09] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
+[01:42:10] [Worker-Main-3/INFO]: Command '/livingthings' registered
+[01:42:10] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[01:42:11] [main/INFO]: Disabling Recipe: bclib:test_star
+[01:42:11] [main/ERROR]: Parsing error loading recipe pointblank:g3
+com.google.gson.JsonParseException: No key tag in MapLike[{"count":5,"id":"minecraft:gold_ingot"}]; No key item in MapLike[{"count":5,"id":"minecraft:gold_ingot"}]; No key tag in MapLike[{"count":9,"id":"minecraft:iron_ingot"}]; No key item in MapLike[{"count":9,"id":"minecraft:iron_ingot"}]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
+[01:42:11] [main/ERROR]: Parsing error loading recipe mob_drops_recipes_overworld:rotten_flesh
+com.google.gson.JsonParseException: Pattern references symbol 'S' but it's not defined in the key
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
+[01:42:11] [main/INFO]: Loaded 7581 recipes
+[01:42:11] [main/INFO]: Added 0 recipes in 4ms
+[01:42:12] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[01:42:12] [main/INFO]: Loaded 6345 advancements
+[01:42:12] [main/WARN]: Could not decode GlobalLootModifier with json id cardiac:life_bottle - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: cardiac:life_bottle
+[01:42:12] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 58 translation keys
+[01:42:13] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:42:13] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:42:13] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:42:13] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:42:13] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:42:13] [main/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6d4f446a)
+[01:42:18] [main/INFO]: Added 2 Biomes
+[01:42:18] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:42:18] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:42:18] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:42:18] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:18] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (277b7c3b)
+[01:42:18] [main/INFO]: Added 11 Biomes
+[01:42:18] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[01:42:18] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:18] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (277b7c3b)
+[01:42:18] [main/INFO]: Added 11 Biomes
+[01:42:18] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[01:42:18] [main/INFO]: Enforcing Correct Generator for minecraft:the_nether.
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (277b7c3b)
+[01:42:18] [main/INFO]: Added 11 Biomes
+[01:42:18] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[01:42:18] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:18] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.nether.WoverNetherBiomeSource
+[01:42:18] [main/INFO]: Added 4 biomes to wover:is_end/highland in 2.436 ms
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6d4f446a)
+[01:42:18] [main/INFO]: Added 2 Biomes
+[01:42:18] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:42:18] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:42:18] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:42:18] [main/INFO]: Enforcing Correct Generator for minecraft:the_end.
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6d4f446a)
+[01:42:18] [main/INFO]: Added 2 Biomes
+[01:42:18] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:42:18] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:42:18] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:42:18] [main/INFO]: Make sure features are loaded from terrablender:org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:18] [main/INFO]: Created WoverChunkGenerator with org.betterx.wover.generator.impl.biomesource.end.WoverEndBiomeSource
+[01:42:18] [main/INFO]: Loading World with initially configured Dimensions.
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - The End  BiomeSource (6d4f446a)
+[01:42:18] [main/INFO]: Added 2 Biomes
+[01:42:18] [main/INFO]:  - minecraft:end_midlands, subbiomes=1
+[01:42:18] [main/INFO]:  - minecraft:end_barrens, subbiomes=1
+[01:42:18] [main/INFO]: No Barrens Biomes found. Disabling by using land Biomes
+[01:42:18] [main/INFO]: Updating Pickers for WoVer - Nether BiomeSource (277b7c3b)
+[01:42:18] [main/INFO]: Added 11 Biomes
+[01:42:18] [main/INFO]:  - betternether:crimson_pinewood, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:nether_swampland_terraces, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_fungiwoods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:crimson_glowing_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_swampland, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:flooded_deltas, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:poor_nether_grasslands, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:old_warped_woods, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:upside_down_forest_cleared, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:soul_plain, subbiomes=1
+[01:42:18] [main/INFO]:  - betternether:sulfuric_bone_reef, subbiomes=1
+[01:42:18] [main/INFO]: Applied 71 biome modifications and added 21 tags to 23 of 371 biomes in 18.12 ms
+[01:42:19] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01:42:19] [main/INFO]: Applied 5501 biome modifications to 371 of 371 new biomes in 281.7 ms
+[01:42:19] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[01:42:19] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[01:42:19] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[01:42:19] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 92053 bytes (in 10 string chunks with the size of 10000)
+[01:42:19] [Server thread/INFO]: Loading server configs...
+[01:42:19] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[01:42:19] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:42:19] [Server thread/INFO]: Loading properties
+[01:42:19] [Server thread/INFO]: Default game type: SURVIVAL
+[01:42:19] [Server thread/INFO]: Generating keypair
+[01:42:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:42:19] [Server thread/INFO]: Using epoll channel type
+[01:42:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:42:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:42:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:42:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:42:20] [Server thread/INFO]: Preparing level "world"
+[01:42:20] [Server thread/INFO]: [STDOUT]: The Mixin worked!
+[01:42:20] [Server thread/INFO]: World Dimensions: 
+ - minecraft:the_nether: 
+     WoVer - Chunk Generator (468ed710)
+         preset     = none
+         noise      = minecraft:nether
+         features   = minecraft(41), farmersdelight(1), rocks(6), betternether(95), incendium(36), regions_unexplored(31), biomesoplenty(27), waystones(1), croptopia(2)
+     WoVer - Nether BiomeSource (277b7c3b)
+         biomes     = 45
+         namespaces = biomesoplenty(5), minecraft(5), betternether(22), regions_unexplored(5), incendium(8)
+         seed       = 0
+         height     = 192
+         config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
+ - minecraft:overworld: 
+     class_3754 (6f615fe9)
+         preset     = none
+         noise      = minecraft:overworld
+         features   = terralith(385), minecraft(156), farmersdelight(9), rocks(21), regions_unexplored(275), clifftree(33), biomesoplenty(203), waystones(3), croptopia(29)
+     class_4766 (1410ca69)
+         biomes     = 275
+         namespaces = minecraft(53), terralith(95), biomesoplenty(61), regions_unexplored(66)
+ - eternal_starlight:starlight: 
+     ESChunkGenerator (5648bc49)
+         preset     = none
+         noise      = eternal_starlight:starlight
+         features   = minecraft(4), rocks(5), eternal_starlight(66), croptopia(2)
+     ESBiomeSource (35ef7684)
+         biomes     = 12
+         namespaces = eternal_starlight(12)
+ - minecraft:the_end: 
+     WoVer - Chunk Generator (4198087d)
+         preset     = none
+         noise      = minecraft:end
+         features   = minecraft(4), rocks(6), biomesoplenty(17), waystones(1), croptopia(2), nullscape(17)
+     WoVer - The End  BiomeSource (6d4f446a)
+         biomes     = 11
+         namespaces = nullscape(3), biomesoplenty(3), minecraft(5)
+         seed       = 0
+         height     = 288
+         deciders   = 0
+         config     = EndConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadius=1024, voidBiomesSize=16, centerBiomesSize=16, landBiomesSize=16, barrensBiomesSize=16}
+[01:42:20] [Server thread/INFO]: Merged 22 additional Surface Rules for Dimension minecraft:the_nether => 147 (1.121 ms) using WoVer - Nether BiomeSource (277b7c3b)
+    biomes     = 45
+    namespaces = biomesoplenty(5), minecraft(5), betternether(22), regions_unexplored(5), incendium(8)
+    seed       = 0
+    height     = 192
+    config     = NetherConfig{mapVersion=hex, useVerticalBiomes=true, biomeSize=16, biomeSizeVertical=5}
+[01:42:20] [Server thread/INFO]: Enforcing safe world random access
+[01:42:25] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "wover:nether_biome_source".
+[01:42:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:42:26] [Worker-Main-1/INFO]: menu.preparingSpawn
+[01:42:26] [Worker-Main-1/INFO]: menu.preparingSpawn
+[01:42:26] [Worker-Main-1/INFO]: menu.preparingSpawn
+[01:42:27] [Worker-Main-3/INFO]: menu.preparingSpawn
+[01:42:27] [Worker-Main-3/INFO]: menu.preparingSpawn
+[01:42:27] [Server thread/INFO]: Time elapsed: 2061 ms
+[01:42:27] [Server thread/INFO]: Done (7.719s)! For help, type "help"
+[01:42:27] [Server thread/INFO]: Loaded config for: farsight.json
+[01:42:27] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[01:42:27] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'ago-providing.gl.at.ply.gg'
+[01:42:27] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 3619
+[01:43:19] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:44:57] [Server thread/INFO]: coete10[/127.81.202.201:48141] logged in with entity id 96 at (1169.6650222295757, 90.0, -824.7488631970201)
+[01:44:58] [Server thread/INFO]: Loading config from file...
+[01:44:58] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[01:44:58] [Server thread/INFO]: multiplayer.player.joined
+[01:44:58] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to coete10
+[01:44:59] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from coete10
+[01:44:59] [Server thread/INFO]: [ShulkerBoxTooltip] coete10: protocol version: 2.0
+[01:44:59] [Server thread/INFO]: [voicechat] Received secret request of coete10 (18)
+[01:44:59] [Server thread/INFO]: [voicechat] Sent secret to coete10
+[01:44:59] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[01:44:59] [Server thread/INFO]: [ShulkerBoxTooltip] overriding preview provider shulkerboxtooltip:trapped_chest with shulkerboxtooltip:chest for item minecraft:chest
+[01:44:59] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 31 providers for mod shulkerboxtooltip
+[01:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[01:45:01] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[01:45:23] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[01:45:23] [Server thread/INFO]: multiplayer.player.left
+[01:45:23] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[01:47:31] [Server thread/INFO]: commands.stop.stopping
+[01:47:31] [Server thread/INFO]: Stopping server
+[01:47:31] [Server thread/INFO]: Saving players
+[01:47:31] [Server thread/INFO]: Saving worlds
+[01:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[01:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[01:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/eternal_starlight:starlight
+[01:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[01:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[01:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:47:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:47:32] [Server thread/INFO]: Unloading server configs...
+[01:47:32] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[01:47:32] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[01:47:32] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
