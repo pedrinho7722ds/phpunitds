@@ -4,12 +4,6 @@
 	"movementSpeed": 0.25,
 	"attackDamage": 7.0,
 	"maxSpawnedInChunk": 5,
-	"temptationItems": {
-		"item": "minecraft:wheat"
-	},
-	"tamingItems": {
-		"item": "minecraft:apple"
-	},
 	"spawnBiomes": [
 		{
 			"weight": 15,

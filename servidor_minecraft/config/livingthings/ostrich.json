@@ -3,9 +3,6 @@
 	"movementSpeed": 0.25,
 	"canBeRidden": true,
 	"maxSpawnedInChunk": 5,
-	"temptationItems": {
-		"item": "minecraft:wheat"
-	},
 	"spawnBiomes": [
 		{
 			"weight": 15,

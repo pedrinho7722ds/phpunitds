@@ -5,8 +5,5 @@
 	"flyingSpeed": 0.5,
 	"followRange": 64.0,
 	"canSpawn": true,
-	"maxSpawnedInChunk": 5,
-	"temptationItems": {
-		"item": "minecraft:chorus_fruit"
-	}
+	"maxSpawnedInChunk": 5
 }

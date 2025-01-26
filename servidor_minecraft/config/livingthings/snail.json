@@ -2,14 +2,6 @@
 	"health": 4.0,
 	"movementSpeed": 0.1,
 	"maxSpawnedInChunk": 6,
-	"temptationItems": [
-		{
-			"item": "minecraft:carrot"
-		},
-		{
-			"item": "minecraft:apple"
-		}
-	],
 	"spawnBiomes": [
 		{
 			"weight": 12,

@@ -5,17 +5,6 @@
 	"attackDamage": 5.0,
 	"maxSpawnedInChunk": 4,
 	"allowAllMeatAsFood": true,
-	"temptationItems": [
-		{
-			"item": "minecraft:beef"
-		},
-		{
-			"item": "minecraft:chicken"
-		},
-		{
-			"item": "minecraft:rabbit"
-		}
-	],
 	"spawnBiomes": [
 		{
 			"weight": 12,

@@ -3,17 +3,6 @@
 	"movementSpeed": 0.25,
 	"maxSpawnedInChunk": 6,
 	"talkInterval": 180,
-	"temptationItems": [
-		{
-			"item": "minecraft:cod"
-		},
-		{
-			"item": "minecraft:salmon"
-		},
-		{
-			"item": "minecraft:tropical_fish"
-		}
-	],
 	"spawnBiomes": [
 		{
 			"weight": 12,

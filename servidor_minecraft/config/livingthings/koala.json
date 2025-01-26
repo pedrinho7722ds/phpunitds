@@ -2,9 +2,6 @@
 	"health": 10.0,
 	"movementSpeed": 0.17,
 	"maxSpawnedInChunk": 5,
-	"temptationItems": {
-		"item": "minecraft:wheat"
-	},
 	"spawnBiomes": [
 		{
 			"weight": 50,

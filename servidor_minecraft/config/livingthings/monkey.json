@@ -4,9 +4,6 @@
 	"movementSpeed": 0.23,
 	"attackDamage": 3.0,
 	"maxSpawnedInChunk": 7,
-	"temptationItems": {
-		"item": "minecraft:apple"
-	},
 	"spawnBiomes": [
 		{
 			"weight": 50,

@@ -3,20 +3,6 @@
 	"movementSpeed": 0.25,
 	"flyingSpeed": 0.5,
 	"maxSpawnedInChunk": 6,
-	"temptationItems": [
-		{
-			"item": "minecraft:melon_seeds"
-		},
-		{
-			"item": "minecraft:pumpkin_seeds"
-		},
-		{
-			"item": "minecraft:beetroot_seeds"
-		}
-	],
-	"tamingItems": {
-		"item": "minecraft:wheat_seeds"
-	},
 	"spawnBiomes": [
 		{
 			"weight": 22,

@@ -3,9 +3,6 @@
 	"movementSpeed": 0.25,
 	"maxSpawnedInChunk": 5,
 	"talkInterval": 200,
-	"temptationItems": {
-		"item": "minecraft:wheat"
-	},
 	"spawnBiomes": [
 		{
 			"weight": 15,

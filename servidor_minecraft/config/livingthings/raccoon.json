@@ -4,23 +4,6 @@
 	"movementSpeed": 0.23,
 	"attackDamage": 2.0,
 	"maxSpawnedInChunk": 6,
-	"temptationItems": [
-		{
-			"item": "minecraft:wheat"
-		},
-		{
-			"item": "minecraft:apple"
-		},
-		{
-			"item": "minecraft:carrot"
-		},
-		{
-			"item": "minecraft:potato"
-		},
-		{
-			"item": "minecraft:beetroot"
-		}
-	],
 	"spawnBiomes": [
 		{
 			"weight": 16,
