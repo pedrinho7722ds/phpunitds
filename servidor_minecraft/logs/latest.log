@@ -1700,3 +1700,12 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:55:41] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from xXSansXx20
 [01:55:41] [Server thread/INFO]: [voicechat] Received secret request of xXSansXx20 (18)
 [01:55:41] [Server thread/INFO]: [voicechat] Sent secret to xXSansXx20
+[01:55:42] [Server thread/INFO]: [ShulkerBoxTooltip] xXSansXx20: protocol version: 2.0
+[01:55:47] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[01:55:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[01:55:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[01:55:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
+[02:02:45] [Server thread/INFO]: chat.type.admin
+[02:03:22] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[02:03:22] [Server thread/INFO]: multiplayer.player.left
+[02:03:22] [Server thread/INFO]: [voicechat] Disconnecting client coete10
