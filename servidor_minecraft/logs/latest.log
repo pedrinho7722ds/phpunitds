@@ -1698,3 +1698,32 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [04:23:56] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
 [04:24:12] [Server thread/INFO]: chat.type.admin
 [04:27:04] [Server thread/INFO]: chat.type.admin
+[04:32:45] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[04:33:34] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[04:33:34] [Server thread/INFO]: multiplayer.player.left
+[04:33:34] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[04:34:12] [Server thread/INFO]: commands.stop.stopping
+[04:34:12] [Server thread/INFO]: Stopping server
+[04:34:12] [Server thread/INFO]: Saving players
+[04:34:12] [Server thread/INFO]: Saving worlds
+[04:34:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[04:34:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[04:34:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/eternal_starlight:starlight
+[04:34:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[04:34:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:venus
+[04:34:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:mercury
+[04:34:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:moon
+[04:34:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:mars
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04:34:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:34:13] [Server thread/INFO]: Unloading server configs...
+[04:34:13] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[04:34:13] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[04:34:13] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
