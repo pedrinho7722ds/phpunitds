@@ -1247,3 +1247,25 @@ com.google.gson.JsonParseException: Pattern references symbol 'S' but it's not d
 [03:48:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
 [03:48:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
 [03:49:13] [Server thread/INFO]: chat.type.admin
+[03:49:46] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[03:49:49] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[03:50:17] [Server thread/INFO]: chat.type.admin
+[03:50:52] [Server thread/INFO]: chat.type.admin
+[03:57:24] [Server thread/INFO]: chat.type.admin
+[03:58:37] [Server thread/INFO]: chat.type.admin
+[03:58:40] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[03:59:37] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[03:59:37] [Server thread/INFO]: multiplayer.player.left
+[03:59:37] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[03:59:49] [Server thread/INFO]: coete10[/127.210.107.9:43651] logged in with entity id 5932 at (1178.4177883322286, 80.0625, -858.0894995215909)
+[03:59:49] [Server thread/INFO]: Loading config from file...
+[03:59:49] [Server thread/INFO]: multiplayer.player.joined
+[03:59:49] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to coete10
+[03:59:49] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from coete10
+[03:59:49] [Server thread/INFO]: [voicechat] Received secret request of coete10 (18)
+[03:59:49] [Server thread/INFO]: [voicechat] Sent secret to coete10
+[03:59:50] [Server thread/INFO]: [ShulkerBoxTooltip] coete10: protocol version: 2.0
+[03:59:52] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[03:59:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3a110192-6635-3833-abff-63264a24f741
+[03:59:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3a110192-6635-3833-abff-63264a24f741
+[03:59:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player coete10 (3a110192-6635-3833-abff-63264a24f741) successfully connected to voice chat
