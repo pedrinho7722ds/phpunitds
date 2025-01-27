@@ -1673,3 +1673,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:20:13] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
 [01:20:13] [Server thread/INFO]: multiplayer.player.left
 [01:20:13] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[01:40:24] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[01:42:39] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[01:43:30] [Server thread/INFO]: xXSansXx20 lost connection: multiplayer.disconnect.generic
+[01:43:30] [Server thread/INFO]: multiplayer.player.left
+[01:43:30] [Server thread/INFO]: [voicechat] Disconnecting client xXSansXx20
+[01:43:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@4eb4c3e0[id=cfcb7121-0c52-37f3-b9ad-6a30c1ab373b,name=xXSansXx20,properties={}] lost connection: multiplayer.disconnect.generic
+[01:43:59] [Server thread/WARN]: handleDisconnection() called twice
