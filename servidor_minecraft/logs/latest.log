@@ -2652,3 +2652,4 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [03:15:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
 [03:16:13] [Server thread/INFO]: [Not Secure] chat.type.text
 [03:16:17] [Server thread/INFO]: [Not Secure] chat.type.text
+[03:23:35] [Server thread/INFO]: chat.type.admin
