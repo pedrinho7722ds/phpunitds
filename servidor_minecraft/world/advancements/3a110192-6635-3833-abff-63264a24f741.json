@@ -14038,5 +14038,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-01-27 04:20:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

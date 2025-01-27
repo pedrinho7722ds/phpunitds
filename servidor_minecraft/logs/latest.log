@@ -1688,3 +1688,13 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [04:14:36] [Server thread/INFO]: chat.type.admin
 [04:15:03] [Server thread/INFO]: chat.type.admin
 [04:15:44] [Server thread/INFO]: chat.type.admin
+[04:22:57] [Server thread/INFO]: xXSansXx20 lost connection: multiplayer.disconnect.generic
+[04:22:57] [Server thread/INFO]: multiplayer.player.left
+[04:22:57] [Server thread/INFO]: [voicechat] Disconnecting client xXSansXx20
+[04:23:10] [Server thread/INFO]: death.attack.outOfWorld
+[04:23:12] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[04:23:30] [Server thread/INFO]: chat.type.admin
+[04:23:36] [Server thread/INFO]: chat.type.admin
+[04:23:56] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[04:24:12] [Server thread/INFO]: chat.type.admin
+[04:27:04] [Server thread/INFO]: chat.type.admin
