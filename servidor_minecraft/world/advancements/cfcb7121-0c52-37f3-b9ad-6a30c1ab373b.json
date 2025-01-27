@@ -19039,5 +19039,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-01-27 00:47:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
