@@ -18949,93 +18949,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 06:17:08 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
-    "criteria": {
-      "has_log": "2025-01-26 05:56:50 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/cactus": {
     "criteria": {
       "has_cactus": "2025-01-26 05:54:26 +0000"
     },
     "done": true
   },
-  "stellaris:oil": {
+  "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
     "criteria": {
-      "oil_bucket": "2025-01-26 06:03:10 +0000"
+      "has_palm_shrub": "2025-01-26 05:55:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
+    "criteria": {
+      "has_log": "2025-01-26 05:56:50 +0000"
     },
     "done": true
   },
@@ -19057,33 +18985,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/palm_sapling_from_palm_shrub": {
+  "regions_unexplored:recipes/decorations/palm_shrub": {
     "criteria": {
-      "has_palm_shrub": "2025-01-26 05:55:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/acacia_shrub": {
-    "criteria": {
-      "has_acacia_sapling": "2025-01-26 06:10:54 +0000"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/prismarine_chimney": {
-    "criteria": {
-      "has_prismarine": "2025-01-26 06:13:44 +0000"
+      "has_palm_sapling": "2025-01-26 05:56:50 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/building_blocks/baobab_wood": {
     "criteria": {
       "has_log": "2025-01-26 05:57:46 +0000"
-    },
-    "done": true
-  },
-  "cozyhome:recipes/building_blocks/acacia_large_stump": {
-    "criteria": {
-      "has_acacia_log": "2025-01-26 05:58:12 +0000"
     },
     "done": true
   },
@@ -19099,15 +19009,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/palm_shrub": {
-    "criteria": {
-      "has_palm_sapling": "2025-01-26 05:56:50 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/baobab_planks": {
     "criteria": {
       "has_logs": "2025-01-26 05:57:46 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/acacia_large_stump": {
+    "criteria": {
+      "has_acacia_log": "2025-01-26 05:58:12 +0000"
+    },
+    "done": true
+  },
+  "stellaris:oil": {
+    "criteria": {
+      "oil_bucket": "2025-01-26 06:03:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_shrub": {
+    "criteria": {
+      "has_acacia_sapling": "2025-01-26 06:10:54 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/prismarine_chimney": {
+    "criteria": {
+      "has_prismarine": "2025-01-26 06:13:44 +0000"
     },
     "done": true
   },
