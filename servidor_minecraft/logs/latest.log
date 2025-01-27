@@ -1667,3 +1667,9 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [00:52:32] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[00:57:55] [Server thread/INFO]: chat.type.admin
+[01:04:32] [Server thread/INFO]: chat.type.admin
+[01:08:34] [Server thread/INFO]: Named entity class_1641['Shayna'/10170, l='ServerLevel[Mundo nuevo]', x=1129.80, y=75.00, z=-905.68] died: death.attack.mob
+[01:20:13] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[01:20:13] [Server thread/INFO]: multiplayer.player.left
+[01:20:13] [Server thread/INFO]: [voicechat] Disconnecting client coete10
