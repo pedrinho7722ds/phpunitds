@@ -17,6 +17,7 @@
       "fungal_jungle": "2025-01-04 04:26:28 +0000",
       "bayou": "2025-01-05 05:15:51 +0000",
       "erupting_inferno": "2024-12-21 04:46:46 +0000",
+      "floodplain": "2025-01-27 02:35:08 +0000",
       "highland": "2024-12-22 07:41:06 +0000",
       "jacaranda_glade": "2024-12-16 03:48:54 +0000",
       "marsh": "2025-01-05 04:28:02 +0000",
@@ -39,6 +40,7 @@
       "dryland": "2025-01-26 05:58:58 +0000",
       "end_corruption": "2024-12-29 06:26:34 +0000",
       "old_growth_dead_forest": "2025-01-02 02:11:04 +0000",
+      "lush_desert": "2025-01-27 02:27:31 +0000",
       "redwood_forest": "2024-12-17 06:05:38 +0000",
       "visceral_heap": "2024-12-28 04:31:58 +0000",
       "aspen_glade": "2024-12-16 03:49:05 +0000",
@@ -48,6 +50,7 @@
       "dead_forest": "2024-12-23 04:31:12 +0000",
       "volcano": "2024-12-29 04:41:27 +0000",
       "pasture": "2024-12-15 02:52:45 +0000",
+      "rocky_rainforest": "2025-01-27 02:33:27 +0000",
       "volcanic_plains": "2025-01-04 01:37:19 +0000",
       "lavender_field": "2024-12-16 02:17:09 +0000",
       "fir_clearing": "2024-12-15 02:31:39 +0000",
@@ -118,13 +121,17 @@
       "minecraft:frozen_river": "2024-12-23 04:21:50 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-26 05:25:58 +0000",
       "minecraft:ocean": "2024-12-15 02:39:01 +0000",
+      "minecraft:jungle": "2025-01-27 02:55:19 +0000",
       "minecraft:sunflower_plains": "2024-12-15 04:10:38 +0000",
       "minecraft:birch_forest": "2024-12-15 00:14:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-15 00:14:46 +0000",
       "minecraft:snowy_beach": "2024-12-23 04:26:37 +0000",
+      "minecraft:wooded_badlands": "2025-01-27 02:29:13 +0000",
+      "minecraft:warm_ocean": "2025-01-27 02:23:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-05 02:07:52 +0000",
       "minecraft:beach": "2024-12-15 00:14:33 +0000",
       "minecraft:dark_forest": "2024-12-15 07:38:12 +0000",
+      "minecraft:stony_peaks": "2025-01-27 02:30:17 +0000",
       "minecraft:river": "2024-12-15 01:47:52 +0000",
       "minecraft:lukewarm_ocean": "2025-01-05 02:07:25 +0000",
       "minecraft:stony_shore": "2024-12-16 03:49:56 +0000",
@@ -153,10 +160,14 @@
       "minecraft:desert": "2025-01-26 05:43:41 +0000",
       "minecraft:windswept_forest": "2024-12-22 07:41:06 +0000",
       "minecraft:ocean": "2024-12-15 02:38:55 +0000",
+      "minecraft:jungle": "2025-01-27 02:55:19 +0000",
       "minecraft:sunflower_plains": "2024-12-15 04:10:38 +0000",
       "minecraft:birch_forest": "2024-12-15 00:14:37 +0000",
+      "minecraft:wooded_badlands": "2025-01-27 02:29:13 +0000",
+      "minecraft:warm_ocean": "2025-01-27 02:23:13 +0000",
       "minecraft:beach": "2024-12-15 00:14:33 +0000",
       "minecraft:dark_forest": "2024-12-15 07:38:12 +0000",
+      "minecraft:stony_peaks": "2025-01-27 02:30:17 +0000",
       "minecraft:river": "2024-12-15 01:47:52 +0000",
       "minecraft:lukewarm_ocean": "2025-01-05 02:07:25 +0000",
       "minecraft:stony_shore": "2024-12-16 03:49:56 +0000",
@@ -11746,8 +11757,10 @@
       "mountains": "2025-01-18 04:35:15 +0000",
       "joshua_desert": "2025-01-26 06:00:30 +0000",
       "silver_birch_forest": "2025-01-05 03:45:52 +0000",
+      "arid_mountains": "2025-01-27 02:29:14 +0000",
       "deciduous_forest": "2025-01-05 05:02:58 +0000",
       "dry_bushland": "2025-01-26 06:00:28 +0000",
+      "cold_deciduous_forest": "2025-01-27 03:06:20 +0000",
       "boreal_forest": "2025-01-18 04:56:12 +0000",
       "fen": "2025-01-25 02:16:00 +0000",
       "pine_taiga": "2025-01-05 01:48:53 +0000",
@@ -11757,11 +11770,13 @@
       "towering_cliffs": "2025-01-05 04:18:45 +0000",
       "bamboo_forest": "2025-01-26 06:02:12 +0000",
       "ancient_delta": "2025-01-25 02:29:28 +0000",
+      "saguaro_desert": "2025-01-27 02:18:16 +0000",
       "marsh": "2025-01-05 05:14:42 +0000",
       "willow_forest": "2025-01-05 03:01:56 +0000",
       "temperate_grove": "2025-01-05 01:53:42 +0000",
       "frozen_tundra": "2025-01-25 02:04:52 +0000",
       "cold_river": "2025-01-05 04:10:29 +0000",
+      "rocky_reef": "2025-01-27 02:21:00 +0000",
       "poppy_fields": "2025-01-25 04:56:17 +0000",
       "baobab_savanna": "2025-01-26 05:58:28 +0000",
       "old_growth_bayou": "2025-01-05 04:48:26 +0000",
@@ -11777,7 +11792,9 @@
       "icy_heights": "2025-01-25 02:11:07 +0000",
       "hyacinth_deeps": "2025-01-26 04:23:03 +0000",
       "rainforest": "2025-01-26 05:43:44 +0000",
-      "magnolia_highlands": "2025-01-05 03:01:13 +0000"
+      "magnolia_highlands": "2025-01-05 03:01:13 +0000",
+      "eucalyptus_forest": "2025-01-27 02:27:47 +0000",
+      "outback": "2025-01-27 02:25:43 +0000"
     },
     "done": false
   },
@@ -11786,8 +11803,10 @@
       "mountains": "2025-01-18 04:35:15 +0000",
       "joshua_desert": "2025-01-26 06:00:30 +0000",
       "silver_birch_forest": "2025-01-05 03:45:52 +0000",
+      "arid_mountains": "2025-01-27 02:29:14 +0000",
       "deciduous_forest": "2025-01-05 05:02:58 +0000",
       "dry_bushland": "2025-01-26 06:00:28 +0000",
+      "cold_deciduous_forest": "2025-01-27 03:06:20 +0000",
       "boreal_forest": "2025-01-18 04:56:12 +0000",
       "fen": "2025-01-25 02:16:00 +0000",
       "pine_taiga": "2025-01-05 01:48:53 +0000",
@@ -11796,11 +11815,13 @@
       "autumnal_maple_forest": "2025-01-05 03:38:17 +0000",
       "towering_cliffs": "2025-01-05 04:18:45 +0000",
       "bamboo_forest": "2025-01-26 06:02:12 +0000",
+      "saguaro_desert": "2025-01-27 02:18:16 +0000",
       "marsh": "2025-01-05 05:14:42 +0000",
       "willow_forest": "2025-01-05 03:01:56 +0000",
       "temperate_grove": "2025-01-05 01:53:42 +0000",
       "frozen_tundra": "2025-01-25 02:04:52 +0000",
       "cold_river": "2025-01-05 04:10:29 +0000",
+      "rocky_reef": "2025-01-27 02:21:00 +0000",
       "poppy_fields": "2025-01-25 04:56:17 +0000",
       "baobab_savanna": "2025-01-26 05:58:28 +0000",
       "old_growth_bayou": "2025-01-05 04:48:26 +0000",
@@ -11816,7 +11837,9 @@
       "icy_heights": "2025-01-25 02:11:07 +0000",
       "hyacinth_deeps": "2025-01-26 04:23:03 +0000",
       "rainforest": "2025-01-26 05:43:44 +0000",
-      "magnolia_highlands": "2025-01-05 03:01:13 +0000"
+      "magnolia_highlands": "2025-01-05 03:01:13 +0000",
+      "eucalyptus_forest": "2025-01-27 02:27:47 +0000",
+      "outback": "2025-01-27 02:25:43 +0000"
     },
     "done": false
   },
@@ -13883,77 +13906,137 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_log": "2025-01-27 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-27 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-01-27 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/jungle_large_stump": {
+    "criteria": {
+      "has_jungle_log": "2025-01-27 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-01-27 02:21:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_cream_pie": {
+    "criteria": {
+      "has_banana": "2025-01-27 02:33:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-01-27 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-27 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "palm_log": "2025-01-27 02:21:25 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "mcwfurnitures:recipes/jungle": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_wood": "2025-01-27 02:34:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_jungle_sapling": "2025-01-27 02:56:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_logs": "2025-01-27 02:21:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_sea_pickle": "2025-01-27 02:23:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_lily_of_the_valley": "2025-01-27 02:59:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "cozyhome:recipes/building_blocks/endstone_chimney": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_end_stone": "2025-01-27 03:13:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "croptopia:recipes/banana_nut_bread": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_banana": "2025-01-27 02:33:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "regions_unexplored:recipes/decorations/palm_shrub": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_palm_sapling": "2025-01-27 02:21:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "croptopia:recipes/misc/banana_smoothie": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_banana": "2025-01-27 02:33:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "croptopia:recipes/limeade": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_lime": "2025-01-27 02:59:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "croptopia:recipes/salsa": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:02:47 +0000"
+      "has_lime": "2025-01-27 02:59:00 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-27 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lime_sapling": {
+    "criteria": {
+      "has_lime": "2025-01-27 02:59:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }

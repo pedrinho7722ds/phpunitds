@@ -1771,6 +1771,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-01-05 02:07:52 +0000",
       "minecraft:beach": "2024-12-15 02:34:55 +0000",
       "minecraft:dark_forest": "2024-12-28 00:53:35 +0000",
+      "minecraft:stony_peaks": "2025-01-27 02:42:04 +0000",
       "minecraft:river": "2024-12-15 01:47:58 +0000",
       "minecraft:lukewarm_ocean": "2024-12-29 04:57:16 +0000",
       "minecraft:stony_shore": "2024-12-23 03:44:07 +0000",
@@ -1805,6 +1806,7 @@
       "minecraft:warm_ocean": "2025-01-26 06:00:48 +0000",
       "minecraft:beach": "2024-12-15 02:34:55 +0000",
       "minecraft:dark_forest": "2024-12-28 00:53:35 +0000",
+      "minecraft:stony_peaks": "2025-01-27 02:42:04 +0000",
       "minecraft:river": "2024-12-15 01:47:58 +0000",
       "minecraft:lukewarm_ocean": "2024-12-29 04:57:16 +0000",
       "minecraft:stony_shore": "2024-12-23 03:44:07 +0000",
@@ -19066,6 +19068,132 @@
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-01-27 02:03:09 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/endstone_chimney": {
+    "criteria": {
+      "has_end_stone": "2025-01-27 02:40:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_black_sandstone": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_stairs": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/black_sandstone_wall_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_slab_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/black_sandstone_wall": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_black_sandstone": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_black_sandstone_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_slab": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_stairs_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-01-27 02:50:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_cream_pie": {
+    "criteria": {
+      "has_banana": "2025-01-27 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_nut_bread": {
+    "criteria": {
+      "has_banana": "2025-01-27 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/banana_smoothie": {
+    "criteria": {
+      "has_banana": "2025-01-27 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-27 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/jungle_large_stump": {
+    "criteria": {
+      "has_jungle_log": "2025-01-27 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-01-27 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-01-27 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-27 02:53:24 +0000"
     },
     "done": true
   },
