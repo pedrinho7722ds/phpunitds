@@ -14069,6 +14069,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-02-02 03:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-02-02 02:54:02 +0000"
