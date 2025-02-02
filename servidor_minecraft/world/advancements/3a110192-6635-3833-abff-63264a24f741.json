@@ -14050,5 +14050,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-02-02 00:51:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

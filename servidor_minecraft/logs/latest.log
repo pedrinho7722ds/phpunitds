@@ -1702,3 +1702,5 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [00:42:52] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
 [00:43:00] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
 [00:43:08] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[00:46:21] [Server thread/INFO]: Named entity class_1641['Perry'/15039, l='ServerLevel[Mundo nuevo]', x=1119.29, y=76.00, z=-931.37] died: death.attack.mob
+[00:53:51] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
