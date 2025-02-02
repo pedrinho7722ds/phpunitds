@@ -2660,3 +2660,10 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [02:57:43] [Server thread/INFO]: chat.type.admin
+[02:58:40] [Server thread/INFO]: chat.type.admin
+[02:59:01] [Server thread/INFO]: chat.type.admin
+[02:59:25] [Server thread/INFO]: chat.type.admin
+[02:59:32] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[03:04:13] [Server thread/INFO]: chat.type.admin
+[03:04:13] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[03:04:22] [Server thread/INFO]: chat.type.admin

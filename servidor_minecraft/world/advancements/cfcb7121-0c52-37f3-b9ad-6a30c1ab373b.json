@@ -19263,6 +19263,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-02-02 03:03:03 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/mossy_waystone_from_vines": {
     "criteria": {
       "has_waystone": "2025-02-02 02:56:37 +0000"
