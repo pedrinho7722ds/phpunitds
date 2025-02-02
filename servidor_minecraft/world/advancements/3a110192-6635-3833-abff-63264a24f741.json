@@ -14139,5 +14139,11 @@
     },
     "done": true
   },
+  "stellaris:rocket_station": {
+    "criteria": {
+      "rocket_station": "2025-02-02 04:52:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
