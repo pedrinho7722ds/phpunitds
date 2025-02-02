@@ -127,6 +127,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-15 00:14:46 +0000",
       "minecraft:snowy_beach": "2024-12-23 04:26:37 +0000",
       "minecraft:wooded_badlands": "2025-01-27 02:29:13 +0000",
+      "minecraft:windswept_savanna": "2025-02-02 04:32:22 +0000",
       "minecraft:warm_ocean": "2025-01-27 02:23:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-05 02:07:52 +0000",
       "minecraft:beach": "2024-12-15 00:14:33 +0000",
@@ -164,6 +165,7 @@
       "minecraft:sunflower_plains": "2024-12-15 04:10:38 +0000",
       "minecraft:birch_forest": "2024-12-15 00:14:37 +0000",
       "minecraft:wooded_badlands": "2025-01-27 02:29:13 +0000",
+      "minecraft:windswept_savanna": "2025-02-02 04:32:22 +0000",
       "minecraft:warm_ocean": "2025-01-27 02:23:13 +0000",
       "minecraft:beach": "2024-12-15 00:14:33 +0000",
       "minecraft:dark_forest": "2024-12-15 07:38:12 +0000",
@@ -14083,78 +14085,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
-    },
-    "done": false
-  },
   "cozyhome:recipes/building_blocks/spruce_table": {
     "criteria": {
       "has_spruce_slab": "2025-02-02 04:27:09 +0000"
@@ -14176,6 +14106,12 @@
   "cozyhome:recipes/building_blocks/spruce_chair": {
     "criteria": {
       "has_spruce_slab": "2025-02-02 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-02-02 04:35:44 +0000"
     },
     "done": true
   },
