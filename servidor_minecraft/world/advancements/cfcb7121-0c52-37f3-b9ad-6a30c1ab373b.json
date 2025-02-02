@@ -19227,12 +19227,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crafter": {
-    "criteria": {
-      "has_dropper": "2025-02-02 00:51:20 +0000"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/birch_wall_mirror": {
     "criteria": {
       "has_birch_planks": "2025-02-02 00:49:35 +0000"
@@ -19254,6 +19248,12 @@
   "cozyhome:recipes/building_blocks/birch_storage_counter": {
     "criteria": {
       "has_birch_planks": "2025-02-02 00:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2025-02-02 00:51:20 +0000"
     },
     "done": true
   },
