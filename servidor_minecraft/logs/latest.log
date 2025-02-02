@@ -3940,3 +3940,28 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [05:18:56] [Server thread/INFO]: multiplayer.player.left
 [05:18:56] [Server thread/INFO]: [voicechat] Disconnecting client xXSansXx20
 [05:19:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@50d483c0[id=cfcb7121-0c52-37f3-b9ad-6a30c1ab373b,name=xXSansXx20,properties={}] lost connection: disconnect.timeout
+[05:21:06] [Server thread/INFO]: chat.type.admin
+[05:21:14] [Server thread/WARN]: UUID of added entity already exists: RoverEntity['entity.stellaris.rover'/144186, l='ServerLevel[Mundo nuevo]', x=1193.50, y=80.00, z=-820.50]
+[05:21:16] [Server thread/WARN]: UUID of added entity already exists: RoverEntity['entity.stellaris.rover'/144187, l='ServerLevel[Mundo nuevo]', x=1196.50, y=80.00, z=-820.50]
+[05:24:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@517f2b6b[id=cfcb7121-0c52-37f3-b9ad-6a30c1ab373b,name=xXSansXx20,properties={}] lost connection: disconnect.timeout
+[05:25:21] [Server thread/INFO]: xXSansXx20[/127.206.87.88:41685] logged in with entity id 144765 at (7192.08481323354, -15.464159374955445, 10719.699999988079)
+[05:25:21] [Server thread/INFO]: Loading config from file...
+[05:25:21] [Server thread/INFO]: multiplayer.player.joined
+[05:25:21] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to xXSansXx20
+[05:25:26] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from xXSansXx20
+[05:25:26] [Server thread/INFO]: [voicechat] Received secret request of xXSansXx20 (18)
+[05:25:26] [Server thread/INFO]: [voicechat] Sent secret to xXSansXx20
+[05:25:28] [Server thread/INFO]: [ShulkerBoxTooltip] xXSansXx20: protocol version: 2.0
+[05:25:39] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[05:25:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[05:25:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[05:25:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=47, y=-26, z=202}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=46, y=-26, z=203}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=51, y=-26, z=202}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=51, y=-26, z=198}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=55, y=-27, z=196}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=55, y=-27, z=193}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=52, y=-25, z=195}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=52, y=-25, z=196}
+[05:28:55] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=52, y=-25, z=194}
