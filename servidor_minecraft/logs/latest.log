@@ -3420,3 +3420,17 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [04:36:05] [Server thread/INFO]: chat.type.admin
 [04:38:10] [Server thread/INFO]: Named entity GuardEntity['Paul'/119453, l='ServerLevel[Mundo nuevo]', x=7328.49, y=74.77, z=10612.54] died: death.attack.arrow
 [04:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[04:41:02] [Server thread/INFO]: chat.type.admin
+[04:41:31] [Worker-Main-7/WARN]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[04:41:31] [Worker-Main-7/WARN]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[04:42:33] [c2me-prioritized-0/ERROR]: Unknown structure start: hopo:mineshaft/deepslate_mineshaft
+[04:42:33] [c2me-prioritized-0/ERROR]: Unknown structure start: hopo:mineshaft/biomes/dripstone_mineshaft
+[04:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[04:44:34] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-24, z=245}
+[04:44:34] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=110, y=-24, z=244}
+[04:44:34] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=111, y=-24, z=244}
+[04:44:34] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=114, y=-25, z=248}
+[04:44:34] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=113, y=-23, z=244}
+[04:44:34] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=112, y=-24, z=244}
+[04:45:21] [Server thread/INFO]: chat.type.admin
+[04:46:44] [Server thread/INFO]: chat.type.admin
