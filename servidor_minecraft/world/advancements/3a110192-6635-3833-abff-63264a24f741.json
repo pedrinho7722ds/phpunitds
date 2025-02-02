@@ -14085,6 +14085,12 @@
     },
     "done": true
   },
+  "stellaris:root": {
+    "criteria": {
+      "steel_item": "2025-02-02 03:54:01 +0000"
+    },
+    "done": true
+  },
   "cozyhome:recipes/building_blocks/spruce_table": {
     "criteria": {
       "has_spruce_slab": "2025-02-02 04:27:09 +0000"
@@ -14109,12 +14115,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/fox_smithing": {
-    "criteria": {
-      "has_fox": "2025-02-02 04:35:44 +0000"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/spruce_drawer": {
     "criteria": {
       "has_spruce_slab": "2025-02-02 04:27:09 +0000"
@@ -14127,21 +14127,27 @@
     },
     "done": true
   },
-  "stellaris:root": {
-    "criteria": {
-      "steel_item": "2025-02-02 03:54:01 +0000"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/spruce_wall_clock": {
     "criteria": {
       "has_spruce_slab": "2025-02-02 04:27:09 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-02-02 04:35:44 +0000"
+    },
+    "done": true
+  },
   "stellaris:rocket_station": {
     "criteria": {
       "rocket_station": "2025-02-02 04:52:52 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-02 05:43:29 +0000"
     },
     "done": true
   },
