@@ -15572,7 +15572,8 @@
       "icy_heights": "2025-01-25 02:06:51 +0000",
       "hyacinth_deeps": "2025-01-26 04:23:34 +0000",
       "rainforest": "2025-01-26 05:55:33 +0000",
-      "magnolia_highlands": "2025-01-05 03:01:13 +0000"
+      "magnolia_highlands": "2025-01-05 03:01:13 +0000",
+      "lupine_plains": "2025-02-02 04:07:38 +0000"
     },
     "done": false
   },
@@ -15614,7 +15615,8 @@
       "icy_heights": "2025-01-25 02:06:51 +0000",
       "hyacinth_deeps": "2025-01-26 04:23:34 +0000",
       "rainforest": "2025-01-26 05:55:33 +0000",
-      "magnolia_highlands": "2025-01-05 03:01:13 +0000"
+      "magnolia_highlands": "2025-01-05 03:01:13 +0000",
+      "lupine_plains": "2025-02-02 04:07:38 +0000"
     },
     "done": false
   },
@@ -19290,6 +19292,12 @@
   "travelersbackpack:recipes/misc/hay_smithing": {
     "criteria": {
       "has_hay": "2025-02-02 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-02-02 04:10:30 +0000"
     },
     "done": true
   },
