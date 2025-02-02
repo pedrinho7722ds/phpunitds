@@ -19263,5 +19263,17 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-02-02 02:56:37 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-02-02 02:56:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
