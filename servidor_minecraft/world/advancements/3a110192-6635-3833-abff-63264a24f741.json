@@ -14085,79 +14085,121 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-02 04:17:18 +0000"
+      "log_spam_fixer": "2025-02-02 04:27:21 +0000"
     },
     "done": false
+  },
+  "cozyhome:recipes/building_blocks/spruce_table": {
+    "criteria": {
+      "has_spruce_slab": "2025-02-02 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/spruce_sofa": {
+    "criteria": {
+      "has_spruce_slab": "2025-02-02 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/spruce_desk": {
+    "criteria": {
+      "has_spruce_slab": "2025-02-02 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/spruce_chair": {
+    "criteria": {
+      "has_spruce_slab": "2025-02-02 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/spruce_drawer": {
+    "criteria": {
+      "has_spruce_slab": "2025-02-02 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/spruce_couch": {
+    "criteria": {
+      "has_spruce_slab": "2025-02-02 04:27:09 +0000"
+    },
+    "done": true
   },
   "stellaris:root": {
     "criteria": {
       "steel_item": "2025-02-02 03:54:01 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/spruce_wall_clock": {
+    "criteria": {
+      "has_spruce_slab": "2025-02-02 04:27:09 +0000"
     },
     "done": true
   },

@@ -3357,3 +3357,29 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [04:12:43] [Server thread/INFO]: chat.type.admin
 [04:17:20] [Server thread/INFO]: chat.type.admin
 [04:18:45] [Server thread/INFO]: chat.type.admin
+[04:23:49] [Worker-Main-9/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[04:23:53] [Worker-Main-7/WARN]: Couldn't find template pool reference: ctov:village/waystone/normal
+[04:23:53] [Worker-Main-7/WARN]: Couldn't find template pool reference: ctov:village/bounty/plains
+[04:23:53] [Worker-Main-7/WARN]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[04:24:10] [c2me-prioritized-0/ERROR]: Unknown structure start: hopo:mineshaft/deepslate_mineshaft
+[04:24:58] [Worker-Main-8/ERROR]: Failed to parse vibration listener for Sculk Shrieker: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]'
+[04:24:58] [Worker-Main-8/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-57, z=-201}
+[04:24:58] [Worker-Main-8/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-58, z=-205}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-423, y=-50, z=-211}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-193, y=-45, z=-211}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-183, y=-57, z=-210}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-187, y=-49, z=-219}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-189, y=-45, z=-211}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-191, y=-45, z=-211}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-291, y=-57, z=-315}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-292, y=-57, z=-313}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-294, y=-57, z=-313}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-296, y=-57, z=-313}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-295, y=-57, z=-315}
+[04:25:04] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-293, y=-57, z=-315}
+[04:25:04] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=-420, y=-50, z=-211}
+[04:25:04] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=-413, y=-49, z=-217}
+[04:25:04] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=-418, y=-50, z=-208}
+[04:25:06] [Worker-Main-9/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[04:26:00] [c2me-prioritized-0/ERROR]: Unknown structure start: hopo:mineshaft/biomes/lush_mineshaft
+[04:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
