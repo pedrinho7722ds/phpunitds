@@ -14050,6 +14050,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-02-02 00:52:34 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sponge_smithing": {
     "criteria": {
       "has_sponge": "2025-02-02 00:51:17 +0000"
