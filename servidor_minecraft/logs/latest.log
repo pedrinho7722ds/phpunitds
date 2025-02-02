@@ -1645,3 +1645,4 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [21:50:28] [Server thread/WARN]: Rejecting UseItemOnPacket from coete10: Location (1147.0, 81.42816746234894, -806.6936931610107) too far away from hit block class_2338{x=1145, y=80, z=-807}.
 [21:56:00] [Server thread/WARN]: Rejecting UseItemOnPacket from coete10: Location (1153.0, 81.20879530906677, -806.7113766372204) too far away from hit block class_2338{x=1151, y=80, z=-807}.
 [21:56:01] [Server thread/WARN]: Rejecting UseItemOnPacket from coete10: Location (1153.0, 81.20844256877899, -806.7008983790874) too far away from hit block class_2338{x=1151, y=80, z=-807}.
+[22:20:57] [Server thread/INFO]: chat.type.admin
