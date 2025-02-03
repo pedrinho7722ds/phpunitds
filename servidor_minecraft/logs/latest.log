@@ -1620,3 +1620,13 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [02:25:07] [Server thread/INFO]: chat.type.admin
 [02:33:21] [Server thread/INFO]: chat.type.advancement.challenge
 [02:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[02:41:45] [Server thread/INFO]: chat.type.admin
+[02:42:56] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:44:37] [Server thread/INFO]: chat.type.admin
+[02:48:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b timed out
+[02:48:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xXSansXx20
+[02:48:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xXSansXx20
+[02:48:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[02:48:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[02:48:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
