@@ -1769,3 +1769,33 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [02:49:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3a110192-6635-3833-abff-63264a24f741
 [02:49:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player coete10 (3a110192-6635-3833-abff-63264a24f741) successfully connected to voice chat
 [02:49:30] [Server thread/INFO]: chat.type.admin
+[02:58:34] [Server thread/INFO]: chat.type.admin
+[02:58:41] [Server thread/INFO]: chat.type.admin
+[02:58:45] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[02:58:45] [Server thread/INFO]: multiplayer.player.left
+[02:58:45] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[02:58:52] [Server thread/INFO]: commands.stop.stopping
+[02:58:52] [Server thread/INFO]: Stopping server
+[02:58:52] [Server thread/INFO]: Saving players
+[02:58:52] [Server thread/INFO]: Saving worlds
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/eternal_starlight:starlight
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:mercury
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:mars
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:moon
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[02:58:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/stellaris:venus
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[02:58:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:58:53] [Server thread/INFO]: Unloading server configs...
+[02:58:53] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[02:58:53] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[02:58:53] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
