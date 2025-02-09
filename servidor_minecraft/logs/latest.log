@@ -1735,3 +1735,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:54:19] [Server thread/INFO]: chat.type.admin
 [03:02:50] [Server thread/INFO]: chat.type.admin
 [03:05:28] [Server thread/INFO]: chat.type.admin
+[03:08:29] [Server thread/INFO]: chat.type.admin
+[03:09:19] [Server thread/INFO]: Villager class_1646['Mariano'/23566, l='ServerLevel[Mundo nuevo]', x=1134.34, y=78.00, z=-961.70] died, message: 'death.attack.fall'
+[03:09:19] [Server thread/INFO]: Named entity class_1646['Mariano'/23566, l='ServerLevel[Mundo nuevo]', x=1134.34, y=78.00, z=-961.70] died: death.attack.fall
+[03:11:43] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[03:14:39] [Server thread/INFO]: Villager class_1646['Rupert'/23454, l='ServerLevel[Mundo nuevo]', x=1149.10, y=78.51, z=-994.90] died, message: 'death.attack.inWall'
+[03:14:39] [Server thread/INFO]: Named entity class_1646['Rupert'/23454, l='ServerLevel[Mundo nuevo]', x=1149.10, y=78.51, z=-994.90] died: death.attack.inWall
