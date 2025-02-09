@@ -14451,5 +14451,35 @@
     },
     "done": true
   },
+  "cozyhome:recipes/building_blocks/dark_oak_large_stump": {
+    "criteria": {
+      "has_dark_oak_log": "2025-02-09 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-02-09 01:25:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-02-09 01:27:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-02-09 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_large_stump": {
+    "criteria": {
+      "has_birch_log": "2025-02-09 01:25:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
