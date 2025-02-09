@@ -14451,21 +14451,21 @@
     },
     "done": true
   },
-  "cozyhome:recipes/building_blocks/dark_oak_large_stump": {
-    "criteria": {
-      "has_dark_oak_log": "2025-02-09 01:27:03 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-02-09 01:25:52 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+  "cozyhome:recipes/building_blocks/birch_large_stump": {
     "criteria": {
-      "has_dark_oak_sapling": "2025-02-09 01:27:33 +0000"
+      "has_birch_log": "2025-02-09 01:25:52 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/dark_oak_large_stump": {
+    "criteria": {
+      "has_dark_oak_log": "2025-02-09 01:27:03 +0000"
     },
     "done": true
   },
@@ -14475,9 +14475,21 @@
     },
     "done": true
   },
-  "cozyhome:recipes/building_blocks/birch_large_stump": {
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
     "criteria": {
-      "has_birch_log": "2025-02-09 01:25:52 +0000"
+      "has_dark_oak_sapling": "2025-02-09 01:27:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-09 02:12:40 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-09 02:03:27 +0000"
     },
     "done": true
   },
