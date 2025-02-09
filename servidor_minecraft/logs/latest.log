@@ -1893,3 +1893,42 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [00:40:20] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
 [00:40:20] [Server thread/INFO]: multiplayer.player.left
 [00:40:20] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[00:54:10] [Server thread/INFO]: coete10[/127.20.187.243:46787] logged in with entity id 11340 at (1176.4804328423945, 81.0, -801.2276375664677)
+[00:54:10] [Server thread/INFO]: Loading config from file...
+[00:54:11] [Server thread/INFO]: multiplayer.player.joined
+[00:54:11] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to coete10
+[00:54:11] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from coete10
+[00:54:11] [Server thread/INFO]: [voicechat] Received secret request of coete10 (18)
+[00:54:11] [Server thread/INFO]: [voicechat] Sent secret to coete10
+[00:54:11] [Server thread/INFO]: [ShulkerBoxTooltip] coete10: protocol version: 2.0
+[00:54:13] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[00:54:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3a110192-6635-3833-abff-63264a24f741
+[00:54:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3a110192-6635-3833-abff-63264a24f741
+[00:54:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player coete10 (3a110192-6635-3833-abff-63264a24f741) successfully connected to voice chat
+[00:55:10] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:03:09] [Server thread/INFO]: chat.type.admin
+[01:03:45] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:45] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:45] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:45] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:45] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:46] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:46] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:46] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:46] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:47] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:47] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:47] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:47] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:47] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:48] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:48] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:48] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:48] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:49] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:49] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:03:49] [Server thread/INFO]: [Not Secure] chat.type.text
+[01:04:12] [Server thread/INFO]: chat.type.admin
+[01:10:03] [Server thread/INFO]: Locating element minecraft:dark_forest took 1474 ms
+[01:12:56] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
