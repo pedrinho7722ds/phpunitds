@@ -1889,3 +1889,7 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [00:28:37] [Server thread/INFO]: chat.type.admin
 [00:28:37] [Server thread/INFO]: chat.type.admin
 [00:28:44] [Server thread/INFO]: chat.type.admin
+[00:36:08] [Server thread/INFO]: chat.type.admin
+[00:40:20] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[00:40:20] [Server thread/INFO]: multiplayer.player.left
+[00:40:20] [Server thread/INFO]: [voicechat] Disconnecting client coete10
