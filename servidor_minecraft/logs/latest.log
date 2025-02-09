@@ -1673,3 +1673,24 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [02:16:13] [Server thread/INFO]: [voicechat] Received secret request of xXSansXx20 (18)
 [02:16:13] [Server thread/INFO]: [voicechat] Sent secret to xXSansXx20
 [02:16:15] [Server thread/INFO]: [ShulkerBoxTooltip] xXSansXx20: protocol version: 2.0
+[02:16:26] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[02:16:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[02:16:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[02:16:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
+[02:16:43] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:20:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b timed out
+[02:20:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xXSansXx20
+[02:20:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xXSansXx20
+[02:20:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[02:20:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[02:20:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
+[02:24:40] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:24:41] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:24:41] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:24:41] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:24:41] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:24:41] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:24:42] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:24:44] [Server thread/INFO]: [Not Secure] chat.type.text
+[02:26:01] [Server thread/INFO]: chat.type.admin
