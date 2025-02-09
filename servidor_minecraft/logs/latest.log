@@ -1694,3 +1694,44 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:24:42] [Server thread/INFO]: [Not Secure] chat.type.text
 [02:24:44] [Server thread/INFO]: [Not Secure] chat.type.text
 [02:26:01] [Server thread/INFO]: chat.type.admin
+[02:27:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[02:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[02:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3659ms or 73 ticks behind
+[02:29:09] [Server thread/INFO]: chat.type.admin
+[02:29:54] [Server thread/INFO]: chat.type.admin
+[02:32:39] [Server thread/WARN]: UUID of added entity already exists: class_1667['entity.minecraft.arrow'/18302, l='ServerLevel[Mundo nuevo]', x=1071.10, y=95.95, z=-1153.34]
+[02:32:39] [Server thread/WARN]: UUID of added entity already exists: class_1667['entity.minecraft.arrow'/18303, l='ServerLevel[Mundo nuevo]', x=1255.95, y=78.67, z=-1155.07]
+[02:33:31] [Server thread/INFO]: chat.type.admin
+[02:35:16] [Server thread/INFO]: chat.type.admin
+[02:46:41] [Server thread/INFO]: Villager class_1646['Moses'/17724, l='ServerLevel[Mundo nuevo]', x=1150.20, y=78.56, z=-994.70] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:41] [Server thread/INFO]: Villager class_1646['Dixie'/18105, l='ServerLevel[Mundo nuevo]', x=1151.66, y=78.56, z=-994.23] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:41] [Server thread/INFO]: Villager class_1646['Gil'/17897, l='ServerLevel[Mundo nuevo]', x=1150.99, y=78.56, z=-994.70] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:41] [Server thread/INFO]: Villager class_1646['Floyd'/17677, l='ServerLevel[Mundo nuevo]', x=1151.67, y=78.56, z=-994.70] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:41] [Server thread/INFO]: Villager class_1646['Rana'/18090, l='ServerLevel[Mundo nuevo]', x=1153.49, y=78.56, z=-994.70] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:41] [Server thread/INFO]: Villager class_1646['Armando'/12749, l='ServerLevel[Mundo nuevo]', x=1154.27, y=78.56, z=-994.22] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:41] [Server thread/INFO]: Villager class_1646['Portia'/17716, l='ServerLevel[Mundo nuevo]', x=1152.36, y=78.56, z=-994.70] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:41] [Server thread/INFO]: Villager class_1646['Randy'/17687, l='ServerLevel[Mundo nuevo]', x=1153.04, y=78.56, z=-994.24] was struck by lightning class_1538['entity.minecraft.lightning_bolt'/20535, l='ServerLevel[Mundo nuevo]', x=1152.50, y=77.00, z=-997.50].
+[02:46:44] [Server thread/INFO]: Villager class_1646['Nigel'/17717, l='ServerLevel[Mundo nuevo]', x=1149.30, y=78.56, z=-992.99] died, message: 'death.attack.indirectMagic'
+[02:46:44] [Server thread/INFO]: Named entity class_1646['Nigel'/17717, l='ServerLevel[Mundo nuevo]', x=1149.30, y=78.56, z=-992.99] died: death.attack.indirectMagic
+[02:46:53] [Server thread/INFO]: Villager class_1646['Georgia'/12751, l='ServerLevel[Mundo nuevo]', x=1154.99, y=78.00, z=-993.46] died, message: 'death.attack.indirectMagic'
+[02:46:53] [Server thread/INFO]: Named entity class_1646['Georgia'/12751, l='ServerLevel[Mundo nuevo]', x=1154.99, y=78.00, z=-993.46] died: death.attack.indirectMagic
+[02:46:59] [Server thread/INFO]: Villager class_1646['Phyllis'/18100, l='ServerLevel[Mundo nuevo]', x=1154.64, y=77.92, z=-989.70] died, message: 'death.attack.indirectMagic'
+[02:46:59] [Server thread/INFO]: Named entity class_1646['Phyllis'/18100, l='ServerLevel[Mundo nuevo]', x=1154.64, y=77.92, z=-989.70] died: death.attack.indirectMagic
+[02:46:59] [Server thread/INFO]: Villager class_1646['Oma'/17361, l='ServerLevel[Mundo nuevo]', x=1156.51, y=78.00, z=-990.80] died, message: 'death.attack.indirectMagic'
+[02:46:59] [Server thread/INFO]: Named entity class_1646['Oma'/17361, l='ServerLevel[Mundo nuevo]', x=1156.51, y=78.00, z=-990.80] died: death.attack.indirectMagic
+[02:47:04] [Server thread/INFO]: Named entity class_1640['Portia'/20542, l='ServerLevel[Mundo nuevo]', x=1156.35, y=78.00, z=-989.85] died: death.attack.mob
+[02:47:08] [Server thread/INFO]: Villager class_1646['Claud'/17719, l='ServerLevel[Mundo nuevo]', x=1153.12, y=78.56, z=-991.48] died, message: 'death.attack.indirectMagic'
+[02:47:08] [Server thread/INFO]: Named entity class_1646['Claud'/17719, l='ServerLevel[Mundo nuevo]', x=1153.12, y=78.56, z=-991.48] died: death.attack.indirectMagic
+[02:47:11] [Server thread/INFO]: Named entity class_1640['Dixie'/20537, l='ServerLevel[Mundo nuevo]', x=1155.49, y=78.00, z=-990.08] died: death.attack.mob
+[02:47:11] [Server thread/INFO]: Villager class_1646['Ezra'/17653, l='ServerLevel[Mundo nuevo]', x=1158.84, y=77.00, z=-990.03] died, message: 'death.attack.indirectMagic'
+[02:47:11] [Server thread/INFO]: Named entity class_1646['Ezra'/17653, l='ServerLevel[Mundo nuevo]', x=1158.84, y=77.00, z=-990.03] died: death.attack.indirectMagic
+[02:47:12] [Server thread/INFO]: Named entity class_1640['Moses'/20536, l='ServerLevel[Mundo nuevo]', x=1151.40, y=78.56, z=-991.21] died: death.attack.player.item
+[02:47:15] [Server thread/INFO]: Named entity class_1640['Randy'/20543, l='ServerLevel[Mundo nuevo]', x=1155.93, y=78.00, z=-991.30] died: death.attack.player.item
+[02:47:16] [Server thread/INFO]: Named entity class_1640['Floyd'/20539, l='ServerLevel[Mundo nuevo]', x=1151.89, y=77.00, z=-988.70] died: death.attack.mob
+[02:47:16] [Server thread/INFO]: Named entity class_1640['Armando'/20541, l='ServerLevel[Mundo nuevo]', x=1156.70, y=78.56, z=-994.30] died: death.attack.player.item
+[02:47:17] [Server thread/INFO]: Named entity class_1640['Rana'/20540, l='ServerLevel[Mundo nuevo]', x=1156.70, y=78.00, z=-992.98] died: death.attack.player.item
+[02:47:17] [Server thread/INFO]: Named entity class_1640['Gil'/20538, l='ServerLevel[Mundo nuevo]', x=1150.58, y=77.71, z=-987.53] died: death.attack.mob
+[02:50:05] [Server thread/INFO]: chat.type.admin
+[02:54:19] [Server thread/INFO]: chat.type.admin
+[03:02:50] [Server thread/INFO]: chat.type.admin
+[03:05:28] [Server thread/INFO]: chat.type.admin
