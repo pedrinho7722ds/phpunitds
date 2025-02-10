@@ -2204,3 +2204,77 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:?]
 	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:25:06] [Server thread/WARN]: Invalid statistic in ./world/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what basicweapons:stone_club is
+[03:25:06] [Server thread/WARN]: Invalid statistic in ./world/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what basicweapons:stone_glaive is
+[03:25:06] [Server thread/WARN]: Invalid statistic in ./world/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what basicweapons:diamond_glaive is
+[03:25:06] [Server thread/WARN]: Invalid statistic in ./world/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what basicweapons:stone_club is
+[03:25:06] [Server thread/WARN]: Invalid statistic in ./world/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what basicweapons:stone_glaive is
+[03:25:06] [Server thread/WARN]: Ignored advancement 'minecraft:basicweapons/got_sticks' in progress file ./world/advancements/3a110192-6635-3833-abff-63264a24f741.json - it doesn't exist anymore?
+[03:25:06] [Server thread/WARN]: Ignored advancement 'minecraft:basicweapons/got_cobblestone' in progress file ./world/advancements/3a110192-6635-3833-abff-63264a24f741.json - it doesn't exist anymore?
+[03:25:06] [Server thread/WARN]: Ignored advancement 'minecraft:basicweapons/got_iron_ingot' in progress file ./world/advancements/3a110192-6635-3833-abff-63264a24f741.json - it doesn't exist anymore?
+[03:25:06] [Server thread/WARN]: Ignored advancement 'minecraft:basicweapons/got_gold_ingot' in progress file ./world/advancements/3a110192-6635-3833-abff-63264a24f741.json - it doesn't exist anymore?
+[03:25:06] [Server thread/WARN]: Ignored advancement 'minecraft:basicweapons/got_diamond' in progress file ./world/advancements/3a110192-6635-3833-abff-63264a24f741.json - it doesn't exist anymore?
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:stone_club removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:diamond_quarterstaff removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:diamond_club_variant removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:stone_glaive removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:wooden_club_variant removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:golden_spear removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:golden_glaive removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:wooden_spear removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:wooden_hammer removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:diamond_glaive removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:wooden_quarterstaff removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:stone_quarterstaff removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:iron_hammer removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:golden_club_variant removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:netherite_glaive_smithing removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:stone_hammer removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:wooden_club removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:golden_club removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:golden_hammer removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:stone_club_variant removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:stone_spear removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:golden_quarterstaff removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:iron_quarterstaff removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:iron_club_variant removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:diamond_spear removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:diamond_hammer removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:wooden_glaive removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:diamond_club removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:iron_spear removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:iron_club removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:iron_glaive removed now.
+[03:25:06] [Server thread/ERROR]: Tried to load unrecognized recipe: basicweapons:netherite_glaive_smithing removed now.
+[03:25:06] [Server thread/INFO]: coete10[/127.20.187.243:44233] logged in with entity id 24772 at (1175.408729133764, 90.0, -824.0580053899725)
+[03:25:06] [Server thread/INFO]: Loading config from file...
+[03:25:06] [Server thread/INFO]: multiplayer.player.joined
+[03:25:06] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to coete10
+[03:25:07] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from coete10
+[03:25:07] [Server thread/INFO]: [voicechat] Received secret request of coete10 (18)
+[03:25:07] [Server thread/INFO]: [voicechat] Sent secret to coete10
+[03:25:08] [Server thread/INFO]: [ShulkerBoxTooltip] coete10: protocol version: 2.0
+[03:25:09] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[03:25:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3a110192-6635-3833-abff-63264a24f741
+[03:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3a110192-6635-3833-abff-63264a24f741
+[03:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player coete10 (3a110192-6635-3833-abff-63264a24f741) successfully connected to voice chat
+[03:28:40] [Server thread/INFO]: coete10 lost connection: multiplayer.disconnect.generic
+[03:28:40] [Server thread/INFO]: multiplayer.player.left
+[03:28:40] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[03:29:19] [Server thread/INFO]: commands.stop.stopping
+[03:29:19] [Server thread/INFO]: Stopping server
+[03:29:19] [Server thread/INFO]: Saving players
+[03:29:19] [Server thread/INFO]: Saving worlds
+[03:29:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[03:29:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/eternal_starlight:starlight
+[03:29:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[03:29:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[03:29:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:29:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[03:29:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:29:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:29:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:29:19] [Server thread/INFO]: Unloading server configs...
+[03:29:19] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[03:29:19] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[03:29:19] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
