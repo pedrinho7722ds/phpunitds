@@ -2401,6 +2401,7 @@
       "greenbean_seed": "2024-12-16 03:56:17 +0000",
       "sweetpotato_seed": "2024-12-15 02:34:20 +0000",
       "squash_seed": "2024-12-16 03:56:08 +0000",
+      "chile_pepper_seed": "2025-02-09 04:51:49 +0000",
       "cabbage_seed": "2024-12-30 04:55:17 +0000",
       "cucumber_seed": "2024-12-16 03:56:19 +0000",
       "bellpepper_seed": "2024-12-15 05:44:35 +0000",
@@ -2774,17 +2775,18 @@
   "croptopia:gather_plains": {
     "criteria": {
       "lettuce_seed": "2024-12-15 05:45:07 +0000",
-      "mustard_seed": "2024-12-16 03:57:18 +0000",
       "greenbean_seed": "2024-12-16 03:56:17 +0000",
       "sweetpotato_seed": "2024-12-15 02:34:20 +0000",
-      "kale_seed": "2025-01-05 04:42:20 +0000",
+      "chile_pepper_seed": "2025-02-09 04:51:49 +0000",
       "cabbage_seed": "2024-12-30 04:55:17 +0000",
       "cucumber_seed": "2024-12-16 03:56:19 +0000",
       "bellpepper_seed": "2024-12-15 05:44:35 +0000",
-      "barley_seed": "2024-12-16 03:56:13 +0000",
       "corn_seed": "2024-12-16 03:56:09 +0000",
       "broccoli_seed": "2024-12-15 05:45:33 +0000",
-      "oat_seed": "2024-12-15 05:46:08 +0000"
+      "oat_seed": "2024-12-15 05:46:08 +0000",
+      "mustard_seed": "2024-12-16 03:57:18 +0000",
+      "kale_seed": "2025-01-05 04:42:20 +0000",
+      "barley_seed": "2024-12-16 03:56:13 +0000"
     },
     "done": false
   },
@@ -13990,21 +13992,9 @@
     },
     "done": true
   },
-  "minecraft:basicweapons/got_iron_ingot": {
-    "criteria": {
-      "got_iron_ingot": "2025-01-02 01:50:16 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-01-02 01:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:basicweapons/got_gold_ingot": {
-    "criteria": {
-      "got_gold_ingot": "2025-01-02 01:58:20 +0000"
     },
     "done": true
   },
@@ -14041,18 +14031,6 @@
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_minecraft:diamond": "2025-01-02 02:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:basicweapons/got_diamond": {
-    "criteria": {
-      "got_diamond": "2025-01-02 02:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:basicweapons/got_sticks": {
-    "criteria": {
-      "got_sticks": "2025-01-02 02:24:13 +0000"
     },
     "done": true
   },
@@ -14311,12 +14289,6 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-01-02 03:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:basicweapons/got_cobblestone": {
-    "criteria": {
-      "got_cobblestone": "2025-01-02 03:36:53 +0000"
     },
     "done": true
   },
@@ -19332,77 +19304,65 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:main/place_campfire": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "campfire": "2025-02-09 04:03:07 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_honeycomb": "2025-02-09 04:14:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_honeycomb": "2025-02-09 04:14:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_blue_orchid": "2025-02-09 04:49:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_blue_orchid": "2025-02-09 04:49:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_orange_tulip": "2025-02-09 04:50:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_orange_tulip": "2025-02-09 04:50:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "croptopia:recipes/pepperoni": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_pepper": "2025-02-09 04:51:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "croptopia:recipes/misc/chile_pepper_seed": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_chile_pepper": "2025-02-09 04:51:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "croptopia:recipes/paprika": {
     "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
+      "has_chile_peppers": "2025-02-09 04:51:49 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-09 03:53:48 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3953
 }
