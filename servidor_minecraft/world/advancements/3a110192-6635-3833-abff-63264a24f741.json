@@ -14463,9 +14463,63 @@
     },
     "done": true
   },
+  "cozyhome:recipes/building_blocks/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-15 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_wall_mirror": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_sink_counter": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-02-15 02:37:44 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_counter": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_storage_counter": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "cozyhome:recipes/building_blocks/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 02:44:11 +0000"
     },
     "done": true
   },
