@@ -14463,77 +14463,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
+      "has_honeycomb": "2025-02-15 02:37:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
+      "has_honeycomb": "2025-02-15 02:37:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
+      "has_feather": "2025-02-15 02:43:01 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-15 03:11:49 +0000"
-    },
-    "done": false
+    "done": true
   },
   "cozyhome:recipes/building_blocks/birch_chair": {
     "criteria": {
@@ -14544,12 +14490,6 @@
   "cozyhome:recipes/building_blocks/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-02-15 02:44:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2025-02-15 02:43:01 +0000"
     },
     "done": true
   },
@@ -14571,12 +14511,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-02-15 02:37:44 +0000"
-    },
-    "done": true
-  },
   "cozyhome:recipes/building_blocks/birch_counter": {
     "criteria": {
       "has_birch_planks": "2025-02-15 02:44:11 +0000"
@@ -14592,12 +14526,6 @@
   "cozyhome:recipes/building_blocks/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-02-15 02:44:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2025-02-15 02:37:44 +0000"
     },
     "done": true
   },

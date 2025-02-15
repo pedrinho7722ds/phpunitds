@@ -2155,3 +2155,17 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [03:36:22] [Server thread/INFO]: xXSansXx20 lost connection: multiplayer.disconnect.generic
 [03:36:22] [Server thread/INFO]: multiplayer.player.left
 [03:36:22] [Server thread/INFO]: [voicechat] Disconnecting client xXSansXx20
+[03:39:38] [Server thread/INFO]: xXSansXx20[/127.206.87.88:51743] logged in with entity id 19578 at (1196.3193090352495, 80.0, -858.5594798340372)
+[03:39:38] [Server thread/INFO]: Loading config from file...
+[03:39:38] [Server thread/INFO]: multiplayer.player.joined
+[03:39:38] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to xXSansXx20
+[03:39:42] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from xXSansXx20
+[03:39:42] [Server thread/INFO]: [voicechat] Received secret request of xXSansXx20 (18)
+[03:39:42] [Server thread/INFO]: [voicechat] Sent secret to xXSansXx20
+[03:39:43] [Server thread/INFO]: [ShulkerBoxTooltip] xXSansXx20: protocol version: 2.0
+[03:39:47] [Server thread/INFO]: [do_a_barrel_roll] Client of xXSansXx20 accepted server config.
+[03:39:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[03:39:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[03:39:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
+[03:40:25] [Server thread/INFO]: chat.type.admin
+[03:45:43] [Server thread/INFO]: chat.type.admin
