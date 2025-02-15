@@ -1678,3 +1678,16 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [02:26:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
 [02:26:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
 [02:26:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
+[02:30:16] [Server thread/INFO]: coete10[/127.17.217.238:49253] logged in with entity id 1690 at (1178.0582748316447, 85.0, -821.036165597633)
+[02:30:16] [Server thread/INFO]: Loading config from file...
+[02:30:16] [Server thread/INFO]: multiplayer.player.joined
+[02:30:16] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to coete10
+[02:30:17] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from coete10
+[02:30:17] [Server thread/INFO]: [voicechat] Received secret request of coete10 (18)
+[02:30:17] [Server thread/INFO]: [voicechat] Sent secret to coete10
+[02:30:17] [Server thread/INFO]: [ShulkerBoxTooltip] coete10: protocol version: 2.0
+[02:30:19] [Server thread/INFO]: [do_a_barrel_roll] Client of coete10 accepted server config.
+[02:30:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3a110192-6635-3833-abff-63264a24f741
+[02:30:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3a110192-6635-3833-abff-63264a24f741
+[02:30:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player coete10 (3a110192-6635-3833-abff-63264a24f741) successfully connected to voice chat
+[02:36:49] [Server thread/INFO]: chat.type.admin
