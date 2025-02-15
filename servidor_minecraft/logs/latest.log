@@ -1691,3 +1691,6 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [02:30:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3a110192-6635-3833-abff-63264a24f741
 [02:30:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player coete10 (3a110192-6635-3833-abff-63264a24f741) successfully connected to voice chat
 [02:36:49] [Server thread/INFO]: chat.type.admin
+[02:37:11] [Server thread/INFO]: chat.type.admin
+[02:37:57] [Server thread/INFO]: chat.type.admin
+[02:38:57] [Server thread/INFO]: chat.type.admin
