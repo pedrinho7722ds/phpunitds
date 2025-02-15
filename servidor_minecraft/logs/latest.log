@@ -2722,3 +2722,5 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 [04:38:27] [Server thread/INFO]: [Not Secure] chat.type.announcement
 [04:40:27] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[04:50:27] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
