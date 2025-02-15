@@ -3836,3 +3836,20 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [09:50:08] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[10:41:24] [Server thread/INFO]: commands.stop.stopping
+[10:41:24] [Server thread/INFO]: Stopping server
+[10:41:24] [Server thread/INFO]: Saving players
+[10:41:24] [Server thread/INFO]: Saving worlds
+[10:41:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[10:41:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[10:41:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/eternal_starlight:starlight
+[10:41:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[10:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[10:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:41:24] [Server thread/INFO]: Unloading server configs...
+[10:41:24] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[10:41:24] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[10:41:24] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
