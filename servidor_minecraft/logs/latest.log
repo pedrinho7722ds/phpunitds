@@ -3834,3 +3834,5 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:?]
 	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[09:50:08] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
