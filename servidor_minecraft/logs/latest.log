@@ -2724,3 +2724,6 @@ io.netty.handler.codec.DecoderException: Received unknown packet id 3
 io.netty.handler.timeout.ReadTimeoutException: null
 [04:50:27] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[05:22:38] [Server thread/INFO]: xXSansXx20 lost connection: multiplayer.disconnect.generic
+[05:22:38] [Server thread/INFO]: multiplayer.player.left
+[05:22:38] [Server thread/INFO]: [voicechat] Disconnecting client xXSansXx20
